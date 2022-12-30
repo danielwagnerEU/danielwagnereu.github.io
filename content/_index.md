@@ -1,6 +1,6 @@
 ## Mein Angebot
 
-Ich berate Sie gerne bei Ihrem Fragestellungen zu
+Ich berate Sie gerne bei Ihren Fragestellungen zu
 
 - Architektur
 - Coaching
