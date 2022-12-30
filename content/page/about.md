@@ -10,4 +10,4 @@ Meine Schwerpunkte sind Gestaltung Software Entwicklungs und IT Prozessen, Anwen
 
 Ich habe zwei Abschlüsse an der Technischen Universität Wien und widme mich als Mitgründer und Obmann des [CoderDojo Wien](https://wien.coderdojo.net) sowie [Youth Hackathon](https://youthhackathon.com/) Ambassador auch der Förderung des IT-Nachwuchs.
 
-{{< figure src="/img/me.jpg" alt="Me" width="25%" >}}
+![Me](/img/me.jpg)
