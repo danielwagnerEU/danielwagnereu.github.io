@@ -3,8 +3,13 @@ languageCode = 'de-at'
 title = 'Daniel Wagner'
 theme = 'beautifulhugo'
 
-
+enableRobotsTXT = true
 enableGitInfo = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [Params]
   commit = "https://github.com/danielwagnerEU/danielwagnereu.github.io/tree/"
@@ -21,7 +26,7 @@ enableGitInfo = true
   socialShare = true
 
   [Author]
-    #name = "Daniel Wagner"
+    name = "Daniel Wagner"
     website = "https://danielwagner.at"
     email = "daniel@danielwagner.at"
     facebook = "daniel.wagn3r"
@@ -40,6 +45,11 @@ enableGitInfo = true
 [[menu.main]]
     name = "About"
     url = "page/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Imprint"
+    url = "page/imprint/"
     weight = 3
 
 [[menu.main]]
