@@ -47,10 +47,16 @@ enableGitInfo = true
     url = "page/about/"
     weight = 3
 
-# [[menu.main]]
-#     name = "Imprint"
-#     url = "page/imprint/"
-#     weight = 3
+[[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    weight = 2
+
+[[menu.main]]
+    parent = "projects"
+    name = "CoderDojo"
+    url = "projects/coderdojo"
+    weight = 1
 
 [[menu.main]]
     name = "Tags"
