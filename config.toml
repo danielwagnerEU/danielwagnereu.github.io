@@ -11,6 +11,19 @@ enableGitInfo = true
     [markup.goldmark.renderer]
       unsafe = true
 
+  [markup.highlight]
+    anchorLineNos = true
+    codeFences = true
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = 'monokai'
+    tabWidth = 4
+
 [Params]
   commit = "https://github.com/danielwagnerEU/danielwagnereu.github.io/tree/"
   selfHosted = true
@@ -22,7 +35,7 @@ enableGitInfo = true
   comments = true
   readingTime = true
   wordCount = true
-  useHLJS = true
+  useHLJS = false
   socialShare = true
 
   [Author]
