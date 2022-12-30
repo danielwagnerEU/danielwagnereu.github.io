@@ -1,7 +1,7 @@
 ---
 title: "Imprint"
 date: 2022-12-29T15:29:30+01:00
-draft: true
+draft: false
 ---
 
 # Offenlegung nach § 25 Mediengesetz
