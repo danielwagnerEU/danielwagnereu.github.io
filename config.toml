@@ -56,13 +56,13 @@ enableGitInfo = true
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "page/about/"
+    name = "Leistungen"
+    url = "page/offering/"
     weight = 3
 
 [[menu.main]]
     identifier = "projects"
-    name = "Projects"
+    name = "Projekte"
     weight = 2
 
 [[menu.main]]
@@ -72,6 +72,11 @@ enableGitInfo = true
     weight = 1
 
 [[menu.main]]
+    name = "Über mich"
+    url = "page/about/"
+    weight = 3
+
+[[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 4
