@@ -9,7 +9,8 @@ draft: false
 ## Daniel Wagner e.U.
 
 Firmenbuchnummer _582479m_ \
-Firmengericht _Landesgericht St. Pölten_
+Firmengericht _Landesgericht St. Pölten_ \
+UID-Nummer _ATU78846108_
 
 ### Sitz
 
