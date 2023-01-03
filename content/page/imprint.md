@@ -1,5 +1,5 @@
 ---
-title: "Imprint"
+title: "Impressum"
 date: 2022-12-29T15:29:30+01:00
 draft: false
 ---
