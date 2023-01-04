@@ -19,7 +19,7 @@ Besonders waren heuer für mich zwei Vorträge, einerseits bei [Global Azure Aus
 als einer Einladung zu einem Vortrag zum interoperable Authentifzierung im Web mit IdentityServer bei der [BASTA!](https://basta.net/microservices-apis/openid-connect-fast-selbstgemacht-mit-identityserver/).
 
 
-Super war auch, dass wir mit [CoderDojo]({{< ref "projects/coderdojo.md" >}}) endlich wieder die Möglichkeit hatten offline aktiv zu sein. Auch wenn der Start etwas holprig war, entwickelt sich inzwischen alles wieder prächtig. Geduld und Durchhaltevermögen lohnt sich eben.
+Super war auch, dass wir mit [CoderDojo]({{< ref "projects/coderdojo/index.md" >}}) endlich wieder die Möglichkeit hatten offline aktiv zu sein. Auch wenn der Start etwas holprig war, entwickelt sich inzwischen alles wieder prächtig. Geduld und Durchhaltevermögen lohnt sich eben.
 
 {{< tweet user="CoderDojoWien" id="1547261479728156672" >}}
 
