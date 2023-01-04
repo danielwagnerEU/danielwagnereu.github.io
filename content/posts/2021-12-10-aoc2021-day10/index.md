@@ -11,8 +11,9 @@ tags:
 - software
 - csharp
 - dotnet
+summary: Syntax Scoring solved using C#, advanced data structures and pattern matching.
 ---
-[![AoC 2021 Day 10](/img/aoc-2021-10.webp)](https://adventofcode.com/2021)
+[![AoC 2021 Day 10](aoc-2021-10.webp)](https://adventofcode.com/2021/day/10)
 
 The theme for today is:
 > Stack it, baby!

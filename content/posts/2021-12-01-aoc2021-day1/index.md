@@ -11,8 +11,9 @@ tags:
 - software
 - csharp
 - dotnet
+summary: Sonar Sweep solved using C# and Linq.
 ---
-[![AoC 2021 Day 1](/img/aoc-2021-01.webp)](https://adventofcode.com/2021)
+[![AoC 2021 Day 1](aoc-2021-01.webp)](https://adventofcode.com/2021/day/1)
 
 Like in the past, I'm participating in this years [https://adventofcode.com](https://adventofcode.com).
 

@@ -11,8 +11,9 @@ tags:
 - software
 - csharp
 - dotnet
+summary: Lanternfish solved using C# and Linq.
 ---
-[![AoC 2021 Day 6](/img/aoc-2021-06.webp)](https://adventofcode.com/2021)
+[![AoC 2021 Day 6](aoc-2021-06.webp)](https://adventofcode.com/2021/day/6)
 
 The theme for today is:
 > Sometimes looking up is better than searching

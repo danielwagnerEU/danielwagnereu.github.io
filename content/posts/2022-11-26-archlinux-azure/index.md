@@ -12,7 +12,7 @@ tags:
 - cloud
 - image
 ---
-[![Arch Linux on Azure](/img/20221126/archlinux01.webp)](https://archlinux.org)
+[![Arch Linux on Azure](archlinux01.webp)](https://archlinux.org)
 
 After years of using my favorite Linux distribution on my on-premise systems, like desktops, servers or even Raspberry Pis I've be always keen to use Arch on cloud as well. Unfortunately there aren't any prebuilt images for Arch Linux available on the most public hyperscalers.
 
@@ -20,7 +20,7 @@ I'm now happy to announce the availabilty of an community Arch Linux image on Az
 
 You can find the image using the *Community Images (PREVIEW)* option on Azure Portal, with name `arch-linux` and publisher ´danielwagn3r` as shown here:
 
-[![Community Images](/img/20221126/archlinux03.webp)](https://portal.azure.com/#create/Microsoft.VirtualMachine)
+[![Community Images](archlinux03.webp)](https://portal.azure.com/#create/Microsoft.VirtualMachine)
 
 ## Building the image
 
@@ -28,7 +28,7 @@ After reading some blog posts and articles [^1],[^5],[^6],[^7] on the topic, I e
 
 On the portal this then looks like this:
 
-![Virtual machine properties](/img/20221126/archlinux02.webp)
+![Virtual machine properties](archlinux02.webp)
 
 The images is provided as is without any guarantee or liability.
 

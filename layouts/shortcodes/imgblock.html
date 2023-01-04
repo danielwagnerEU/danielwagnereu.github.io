@@ -1,0 +1,74 @@
+{{ if hasPrefix (.Get "src") "http" }}
+  <img
+    loading="lazy"
+    src="{{ .Destination | safeURL }}"
+    alt="{{ .Text }}"
+    {{ with .Title}} title="{{ . }}" {{ end }}
+  />
+{{ else }}
+  <picture>
+    {{ $extension := (path.Ext (.Get "src")) }}
+
+    {{ $isJPG := eq $extension ".jpg" }}
+    {{ $isPNG := eq $extension ".png" }}
+
+    {{ if (or $isJPG $isPNG) }}
+      {{ $avifPath:= replace (.Get "src") $extension ".avif" }}
+      {{ $avifFilePath:= "" }}
+
+      {{ if hasPrefix (.Get "src") "/" }}
+      {{ $avifFilePath:= printf "static%s" $avifPath }}
+      {{ if (fileExists $avifFilePath) }}
+          <source srcset="{{ $avifPath | safeURL }}" type="image/avif">
+        {{- end }}
+  
+      {{ else }}      
+        {{ $avifFilePath:= printf "content/%s%s" .Page.File.Dir $avifPath }}
+        {{ if (fileExists $avifFilePath) }}
+          <source srcset="{{ $avifPath | safeURL }}" type="image/avif">
+        {{- end }}  
+      {{ end }}
+
+      {{ $webpPath:= replace (.Get "src") $extension ".webp" }}
+      {{ $webpFilePath:= "" }}
+
+      {{ if hasPrefix (.Get "src") "/" }}
+        {{ $webpFilePath:= printf "static%s" $webpPath }}
+        {{ if (fileExists $webpFilePath) }}
+          <source srcset="{{ $webpPath | safeURL }}" type="image/webp">
+        {{- end }}
+      {{ else }}
+        {{ $webpFilePath:= printf "content/%s%s" .Page.File.Dir $webpPath }}
+        {{ if (fileExists $webpFilePath) }}
+          <source srcset="{{ $webpPath | safeURL }}" type="image/webp">
+        {{- end }}  
+      {{ end }}
+
+    {{ end }}
+
+    {{ if hasPrefix (.Get "src") "/" }}
+      {{ $img := imageConfig (add "/static" ((.Get "src") | safeURL)) }}    
+      <img
+        src="{{ (.Get "src") | safeURL }}"
+        alt="{{ .Get "alt" }}"
+        {{ with .Get "title"}} title="{{ . }}"{{ end }}
+        loading="lazy"
+        decoding="async"
+        width="{{ $img.Width }}"
+        height="{{ $img.Height }}"
+      /> 
+    {{ else }}
+      {{ $img := imageConfig (add (add "/content/" $.Page.File.Dir)  (.Get "src") | safeURL) }}
+      {{ $img.Resize "webp"}}
+      <img
+        src="{{ (.Get "src") | safeURL }}"
+        alt="{{ .Get "alt" }}"
+        {{ with .Get "title"}} title="{{ . }}"{{ end }}
+        loading="lazy"
+        decoding="async"
+        width="{{ $img.Width }}"
+        height="{{ $img.Height }}"
+      /> 
+    {{ end }}
+  </picture>
+{{ end }}
