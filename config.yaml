@@ -56,7 +56,7 @@ params:
     # favicon32x32: "<link / abs url>"
     # apple_touch_icon: "<link / abs url>"
     # safari_pinned_tab: "<link / abs url>"
-
+    
   label:
     text: "Daniel Wagner e.U."
     icon: /apple-touch-icon.png
@@ -115,9 +115,11 @@ params:
     #   SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    # hidden: true # hide everywhere but not in structured data
+    # hiddenInList: true # hide on list pages and home
+    # hiddenInSingle: true # hide on single page
+    linkFullImages: true
+  
 
   editPost:
     URL: "https://github.com/danielwagnerEU/danielwagnereu.github.io/blob/main/content"
