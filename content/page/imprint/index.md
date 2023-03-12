@@ -2,6 +2,10 @@
 title: "Imprint & Disclosure"
 date: 2022-12-29T15:29:30+01:00
 draft: false
+categories:
+- business
+tags:
+- legal
 ---
 
 ## Media proprietor/publisher of this website

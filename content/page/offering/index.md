@@ -1,5 +1,5 @@
 ---
-title: "Leistungen"
+title: "Offering"
 date: 2023-01-02T22:14:00+01:00
 draft: false
 tags:
@@ -8,25 +8,36 @@ tags:
 - oidc
 - training
 - coaching
+- git
+- devops
+- github
+- gitlab
+categories:
+- business
 ---
 
-Ich berate Sie gerne bei Ihren Fragestellungen zu
+{{< sessionize_events >}}
 
-- Software und Enterprise Architektur
-- Coaching
-- EDV-Beratung
-- IT-Beratung (EDV, Software, Hardware Pflichtenheft)
-- IT-Prozesse
-- Projektemanagement und -Begleitung
-- Trainings
+## Topics
+I can advise you on your questions regarding
 
-- Unterstützung bei Ausschreibungen
-- Partnersuche und -auswahl
+- Enterprise architecture management
+- Software and solution architecture
+- IT consulting
+- Coaching and trainings for IT professionals and software engineer
+- IT processes and governance
+- Project management project support, project steering comittee
+- Advice on tenders
+- Partner search and choice
 
 ## Workshops
 
-- _OAuth 2.0 und OpenID Connect Basics_
+Selected topics of recent workshops:
 
-- _OAuth 2.0 & OpenID Connect (fast) selbstgemacht mit IdentityServer_
+- OAuth 2.0 and OpenID Connect fundamentals
 
-- _Projektmanagement mit GitLab_ oder _Atlassian JIRA & Confluence_
+- OAuth 2.0 & OpenID Connect (almost) self-made with IdentityServer
+
+- Software project and portfolio management with GitLab, Atlassian JIRA & Confluence or other tools
+
+- Version Control with Git
