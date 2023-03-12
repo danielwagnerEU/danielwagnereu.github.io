@@ -10,4 +10,4 @@ Meine Schwerpunkte sind Gestaltung Software Entwicklungs und IT Prozessen, Anwen
 
 Ich habe zwei Abschlüsse an der Technischen Universität Wien und widme mich als Mitgründer und Obmann des [CoderDojo Wien](https://wien.coderdojo.net) sowie [Youth Hackathon](https://youthhackathon.com/) Ambassador auch der Förderung des IT-Nachwuchs.
 
-![Picture of Daniel Wagner](me.jpg "Picture of Daniel Wagner")
+![Picture of Daniel Wagner](/img/profile-image.png "Picture of Daniel Wagner")
