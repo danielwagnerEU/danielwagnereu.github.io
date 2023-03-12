@@ -1,1 +1,187 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Daniel Wagner</title><link>https://danielwagner.at/tags/</link><description>Recent content in Tags on Daniel Wagner</description><generator>Hugo -- gohugo.io</generator><language>de-at</language><managingEditor>daniel@danielwagner.at (Daniel Wagner)</managingEditor><webMaster>daniel@danielwagner.at (Daniel Wagner)</webMaster><lastBuildDate>Mon, 02 Jan 2023 22:14:00 +0100</lastBuildDate><atom:link href="https://danielwagner.at/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>coaching</title><link>https://danielwagner.at/tags/coaching/</link><pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/coaching/</guid><description/></item><item><title>oauth2</title><link>https://danielwagner.at/tags/oauth2/</link><pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/oauth2/</guid><description/></item><item><title>oidc</title><link>https://danielwagner.at/tags/oidc/</link><pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/oidc/</guid><description/></item><item><title>openid</title><link>https://danielwagner.at/tags/openid/</link><pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/openid/</guid><description/></item><item><title>training</title><link>https://danielwagner.at/tags/training/</link><pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/training/</guid><description/></item><item><title>coderdojo</title><link>https://danielwagner.at/tags/coderdojo/</link><pubDate>Fri, 30 Dec 2022 08:58:46 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/coderdojo/</guid><description/></item><item><title>Workshop</title><link>https://danielwagner.at/tags/workshop/</link><pubDate>Fri, 30 Dec 2022 08:34:09 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/workshop/</guid><description/></item><item><title>archlinux</title><link>https://danielwagner.at/tags/archlinux/</link><pubDate>Sat, 26 Nov 2022 14:10:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/archlinux/</guid><description/></item><item><title>azure</title><link>https://danielwagner.at/tags/azure/</link><pubDate>Sat, 26 Nov 2022 14:10:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/azure/</guid><description/></item><item><title>cloud</title><link>https://danielwagner.at/tags/cloud/</link><pubDate>Sat, 26 Nov 2022 14:10:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/cloud/</guid><description/></item><item><title>image</title><link>https://danielwagner.at/tags/image/</link><pubDate>Sat, 26 Nov 2022 14:10:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/image/</guid><description/></item><item><title>aoc</title><link>https://danielwagner.at/tags/aoc/</link><pubDate>Fri, 10 Dec 2021 17:36:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/aoc/</guid><description/></item><item><title>csharp</title><link>https://danielwagner.at/tags/csharp/</link><pubDate>Fri, 10 Dec 2021 17:36:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/csharp/</guid><description/></item><item><title>dotnet</title><link>https://danielwagner.at/tags/dotnet/</link><pubDate>Fri, 10 Dec 2021 17:36:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/dotnet/</guid><description/></item><item><title>software</title><link>https://danielwagner.at/tags/software/</link><pubDate>Fri, 10 Dec 2021 17:36:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/software/</guid><description/></item><item><title>codeweek</title><link>https://danielwagner.at/tags/codeweek/</link><pubDate>Mon, 09 Oct 2017 22:13:00 +0200</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/codeweek/</guid><description/></item><item><title>volunteer</title><link>https://danielwagner.at/tags/volunteer/</link><pubDate>Mon, 09 Oct 2017 22:13:00 +0200</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/tags/volunteer/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Daniel Wagner e.U.</title>
+    <link>https://danielwagner.at/tags/</link>
+    <description>Recent content in Tags on Daniel Wagner e.U.</description>
+    <image>
+      <title>Daniel Wagner e.U.</title>
+      <url>https://danielwagner.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://danielwagner.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2023 22:14:00 +0100</lastBuildDate><atom:link href="https://danielwagner.at/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>coaching</title>
+      <link>https://danielwagner.at/tags/coaching/</link>
+      <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/coaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oauth2</title>
+      <link>https://danielwagner.at/tags/oauth2/</link>
+      <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/oauth2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oidc</title>
+      <link>https://danielwagner.at/tags/oidc/</link>
+      <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/oidc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openid</title>
+      <link>https://danielwagner.at/tags/openid/</link>
+      <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/openid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>training</title>
+      <link>https://danielwagner.at/tags/training/</link>
+      <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coderdojo</title>
+      <link>https://danielwagner.at/tags/coderdojo/</link>
+      <pubDate>Fri, 30 Dec 2022 08:58:46 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/coderdojo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kids</title>
+      <link>https://danielwagner.at/tags/kids/</link>
+      <pubDate>Fri, 30 Dec 2022 08:58:46 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/kids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teens</title>
+      <link>https://danielwagner.at/tags/teens/</link>
+      <pubDate>Fri, 30 Dec 2022 08:58:46 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/teens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>https://danielwagner.at/tags/workshop/</link>
+      <pubDate>Fri, 30 Dec 2022 08:34:09 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>archlinux</title>
+      <link>https://danielwagner.at/tags/archlinux/</link>
+      <pubDate>Sat, 26 Nov 2022 14:10:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/archlinux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azure</title>
+      <link>https://danielwagner.at/tags/azure/</link>
+      <pubDate>Sat, 26 Nov 2022 14:10:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>https://danielwagner.at/tags/cloud/</link>
+      <pubDate>Sat, 26 Nov 2022 14:10:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image</title>
+      <link>https://danielwagner.at/tags/image/</link>
+      <pubDate>Sat, 26 Nov 2022 14:10:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aoc</title>
+      <link>https://danielwagner.at/tags/aoc/</link>
+      <pubDate>Fri, 10 Dec 2021 17:36:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/aoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>csharp</title>
+      <link>https://danielwagner.at/tags/csharp/</link>
+      <pubDate>Fri, 10 Dec 2021 17:36:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/csharp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dotnet</title>
+      <link>https://danielwagner.at/tags/dotnet/</link>
+      <pubDate>Fri, 10 Dec 2021 17:36:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/dotnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://danielwagner.at/tags/software/</link>
+      <pubDate>Fri, 10 Dec 2021 17:36:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codeweek</title>
+      <link>https://danielwagner.at/tags/codeweek/</link>
+      <pubDate>Mon, 09 Oct 2017 22:13:00 +0200</pubDate>
+      
+      <guid>https://danielwagner.at/tags/codeweek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>volunteer</title>
+      <link>https://danielwagner.at/tags/volunteer/</link>
+      <pubDate>Mon, 09 Oct 2017 22:13:00 +0200</pubDate>
+      
+      <guid>https://danielwagner.at/tags/volunteer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

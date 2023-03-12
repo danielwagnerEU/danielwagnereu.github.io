@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Daniel Wagner</title><link>https://danielwagner.at/page/</link><description>Recent content in Pages on Daniel Wagner</description><generator>Hugo -- gohugo.io</generator><language>de-at</language><managingEditor>daniel@danielwagner.at (Daniel Wagner)</managingEditor><webMaster>daniel@danielwagner.at (Daniel Wagner)</webMaster><lastBuildDate>Mon, 02 Jan 2023 22:14:00 +0100</lastBuildDate><atom:link href="https://danielwagner.at/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Leistungen</title><link>https://danielwagner.at/page/offering/</link><pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/page/offering/</guid><description>Ich berate Sie gerne bei Ihren Fragestellungen zu
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Daniel Wagner e.U.</title>
+    <link>https://danielwagner.at/page/</link>
+    <description>Recent content on Daniel Wagner e.U.</description>
+    <image>
+      <title>Daniel Wagner e.U.</title>
+      <url>https://danielwagner.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://danielwagner.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2023 22:14:00 +0100</lastBuildDate><atom:link href="https://danielwagner.at/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leistungen</title>
+      <link>https://danielwagner.at/page/offering/</link>
+      <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/page/offering/</guid>
+      <description>Ich berate Sie gerne bei Ihren Fragestellungen zu
 Software und Enterprise Architektur
 Coaching
 EDV-Beratung
@@ -10,13 +30,33 @@ Unterstützung bei Ausschreibungen
 Partnersuche und -auswahl
 Workshops OAuth 2.0 und OpenID Connect Basics
 OAuth 2.0 &amp;amp; OpenID Connect (fast) selbstgemacht mit IdentityServer
-Projektmanagement mit GitLab oder Atlassian JIRA &amp;amp; Confluence</description></item><item><title>Impressum</title><link>https://danielwagner.at/page/imprint/</link><pubDate>Thu, 29 Dec 2022 15:29:30 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/page/imprint/</guid><description>Offenlegung nach § 25 Mediengesetz Daniel Wagner e.U. Firmenbuchnummer 582479m Firmengericht Landesgericht St. Pölten UID-Nummer ATU78846108
-Sitz Bahnweg 3 Haus 1
-3425 Langenlebarn
-Telefon +43 677 61626112
-E-Mail daniel@danielwagner.at
-Web https://danielwagner.at
-Inhaber DI Mag. Daniel Wagner
-Weitere Informationen Vollständige Angaben zum Impressum finden Sie unter:</description></item><item><title>About</title><link>https://danielwagner.at/page/about/</link><pubDate>Thu, 29 Dec 2022 15:29:13 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/page/about/</guid><description>Über fünfzehn Jahre Erfahrung in der IT Branche als Entwickler und Architekt.
+Projektmanagement mit GitLab oder Atlassian JIRA &amp;amp; Confluence</description>
+    </item>
+    
+    <item>
+      <title>Imprint &amp; Disclosure</title>
+      <link>https://danielwagner.at/page/imprint/</link>
+      <pubDate>Thu, 29 Dec 2022 15:29:30 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/page/imprint/</guid>
+      <description>Media proprietor/publisher of this website Daniel Wagner e.U. Inhaber: DI Mag. Daniel Wagner
+Bahnweg 3 Haus 1 3425 Langenlebarn Austria
+Telefon +43 677 61626112 E-Mail daniel@danielwagner.at
+Legal form: Sole proprietorship Place of business: Langenlebarn, Austria Commercial register number: 582479m Commercial Register Court: Regional Court St. Pölten VAT Reg. No ATU78846108
+Chamber membership: Austrian Federal Economic Chamber (WKÖ) Authority according to ECG (E-Commerce Act): Bezirkshauptmannschaft Tulln
+Purpose of the business Services in automatic data processing and information technology Consulting in enterprise architecture, solution architecture and information technology Coaching and trainings for IT professionals</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://danielwagner.at/page/about/</link>
+      <pubDate>Thu, 29 Dec 2022 15:29:13 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/page/about/</guid>
+      <description>Über fünfzehn Jahre Erfahrung in der IT Branche als Entwickler und Architekt.
 Meine Schwerpunkte sind Gestaltung Software Entwicklungs und IT Prozessen, Anwendung agiler Methoden, Analyse von IT Landschaften, Planung von Software und Integrations Architekturen, zum Beispile für Individual Software oder ERP Lösungen
-Ich habe zwei Abschlüsse an der Technischen Universität Wien und widme mich als Mitgründer und Obmann des CoderDojo Wien sowie Youth Hackathon Ambassador auch der Förderung des IT-Nachwuchs.</description></item></channel></rss>
+Ich habe zwei Abschlüsse an der Technischen Universität Wien und widme mich als Mitgründer und Obmann des CoderDojo Wien sowie Youth Hackathon Ambassador auch der Förderung des IT-Nachwuchs.</description>
+    </item>
+    
+  </channel>
+</rss>

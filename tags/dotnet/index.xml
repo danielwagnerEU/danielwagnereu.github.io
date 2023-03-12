@@ -1,1 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dotnet on Daniel Wagner</title><link>https://danielwagner.at/tags/dotnet/</link><description>Recent content in dotnet on Daniel Wagner</description><generator>Hugo -- gohugo.io</generator><language>de-at</language><managingEditor>daniel@danielwagner.at (Daniel Wagner)</managingEditor><webMaster>daniel@danielwagner.at (Daniel Wagner)</webMaster><lastBuildDate>Fri, 10 Dec 2021 17:36:00 +0100</lastBuildDate><atom:link href="https://danielwagner.at/tags/dotnet/index.xml" rel="self" type="application/rss+xml"/><item><title>Advent of Code 2021 Day 10</title><link>https://danielwagner.at/posts/2021-12-10-aoc2021-day10/</link><pubDate>Fri, 10 Dec 2021 17:36:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/posts/2021-12-10-aoc2021-day10/</guid><description>Syntax Scoring solved using C#, advanced data structures and pattern matching.</description></item><item><title>Advent of Code 2021 Day 6</title><link>https://danielwagner.at/posts/2021-12-06-aoc2021-day6/</link><pubDate>Mon, 06 Dec 2021 17:36:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/posts/2021-12-06-aoc2021-day6/</guid><description>Lanternfish solved using C# and Linq.</description></item><item><title>Advent of Code 2021 Day 1</title><link>https://danielwagner.at/posts/2021-12-01-aoc2021-day1/</link><pubDate>Wed, 01 Dec 2021 22:00:00 +0100</pubDate><author>daniel@danielwagner.at (Daniel Wagner)</author><guid>https://danielwagner.at/posts/2021-12-01-aoc2021-day1/</guid><description>Sonar Sweep solved using C# and Linq.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dotnet on Daniel Wagner e.U.</title>
+    <link>https://danielwagner.at/tags/dotnet/</link>
+    <description>Recent content in dotnet on Daniel Wagner e.U.</description>
+    <image>
+      <title>Daniel Wagner e.U.</title>
+      <url>https://danielwagner.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://danielwagner.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Dec 2021 17:36:00 +0100</lastBuildDate><atom:link href="https://danielwagner.at/tags/dotnet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code 2021 Day 10</title>
+      <link>https://danielwagner.at/posts/2021-12-10-aoc2021-day10/</link>
+      <pubDate>Fri, 10 Dec 2021 17:36:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/posts/2021-12-10-aoc2021-day10/</guid>
+      <description>Syntax Scoring solved using C#, advanced data structures and pattern matching.</description>
+    </item>
+    
+    <item>
+      <title>Advent of Code 2021 Day 6</title>
+      <link>https://danielwagner.at/posts/2021-12-06-aoc2021-day6/</link>
+      <pubDate>Mon, 06 Dec 2021 17:36:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/posts/2021-12-06-aoc2021-day6/</guid>
+      <description>Lanternfish solved using C# and Linq.</description>
+    </item>
+    
+    <item>
+      <title>Advent of Code 2021 Day 1</title>
+      <link>https://danielwagner.at/posts/2021-12-01-aoc2021-day1/</link>
+      <pubDate>Wed, 01 Dec 2021 22:00:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/posts/2021-12-01-aoc2021-day1/</guid>
+      <description>Sonar Sweep solved using C# and Linq.</description>
+    </item>
+    
+  </channel>
+</rss>
