@@ -14,6 +14,7 @@ tags:
 - gitlab
 categories:
 - business
+weight: 20
 ---
 
 {{< sessionize_events >}}
