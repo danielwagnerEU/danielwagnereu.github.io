@@ -6,8 +6,8 @@
     <description>Recent content in Tags on Daniel Wagner e.U.</description>
     <image>
       <title>Daniel Wagner e.U.</title>
-      <url>https://danielwagner.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://danielwagner.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://danielwagner.at/apple-touch-icon.png</url>
+      <link>https://danielwagner.at/apple-touch-icon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -18,6 +18,42 @@
       <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
       
       <guid>https://danielwagner.at/tags/coaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devops</title>
+      <link>https://danielwagner.at/tags/devops/</link>
+      <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://danielwagner.at/tags/git/</link>
+      <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://danielwagner.at/tags/github/</link>
+      <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitlab</title>
+      <link>https://danielwagner.at/tags/gitlab/</link>
+      <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/gitlab/</guid>
       <description></description>
     </item>
     
@@ -90,6 +126,15 @@
       <pubDate>Fri, 30 Dec 2022 08:34:09 +0100</pubDate>
       
       <guid>https://danielwagner.at/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>legal</title>
+      <link>https://danielwagner.at/tags/legal/</link>
+      <pubDate>Thu, 29 Dec 2022 15:29:30 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/tags/legal/</guid>
       <description></description>
     </item>
     

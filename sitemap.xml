@@ -2,36 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://danielwagner.at/</loc>
-    <lastmod>2023-03-12T23:05:04+01:00</lastmod>
+    <loc>https://danielwagner.at/categories/business/</loc>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
   </url><url>
-    <loc>https://danielwagner.at/projects/</loc>
-    <lastmod>2023-01-04T21:05:20+01:00</lastmod>
-  </url><url>
-    <loc>https://danielwagner.at/page/</loc>
-    <lastmod>2023-03-12T23:05:04+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://danielwagner.at/categories/</loc>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
   </url><url>
     <loc>https://danielwagner.at/tags/coaching/</loc>
-    <lastmod>2023-01-02T22:40:53+01:00</lastmod>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
   </url><url>
-    <loc>https://danielwagner.at/page/offering/</loc>
-    <lastmod>2023-01-02T22:40:53+01:00</lastmod>
+    <loc>https://danielwagner.at/</loc>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
+  </url><url>
+    <loc>https://danielwagner.at/tags/devops/</loc>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
+  </url><url>
+    <loc>https://danielwagner.at/tags/git/</loc>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
+  </url><url>
+    <loc>https://danielwagner.at/tags/github/</loc>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
+  </url><url>
+    <loc>https://danielwagner.at/tags/gitlab/</loc>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
   </url><url>
     <loc>https://danielwagner.at/tags/oauth2/</loc>
-    <lastmod>2023-01-02T22:40:53+01:00</lastmod>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
+  </url><url>
+    <loc>https://danielwagner.at/page/offering/</loc>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
   </url><url>
     <loc>https://danielwagner.at/tags/oidc/</loc>
-    <lastmod>2023-01-02T22:40:53+01:00</lastmod>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
   </url><url>
     <loc>https://danielwagner.at/tags/openid/</loc>
-    <lastmod>2023-01-02T22:40:53+01:00</lastmod>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
+  </url><url>
+    <loc>https://danielwagner.at/page/</loc>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
   </url><url>
     <loc>https://danielwagner.at/tags/</loc>
-    <lastmod>2023-03-12T22:52:54+01:00</lastmod>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
   </url><url>
     <loc>https://danielwagner.at/tags/training/</loc>
-    <lastmod>2023-01-02T22:40:53+01:00</lastmod>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
   </url><url>
     <loc>https://danielwagner.at/tags/coderdojo/</loc>
     <lastmod>2023-03-12T22:52:54+01:00</lastmod>
@@ -42,14 +56,11 @@
     <loc>https://danielwagner.at/tags/kids/</loc>
     <lastmod>2023-03-12T22:52:54+01:00</lastmod>
   </url><url>
-    <loc>https://danielwagner.at/tags/teens/</loc>
+    <loc>https://danielwagner.at/projects/</loc>
     <lastmod>2023-03-12T22:52:54+01:00</lastmod>
   </url><url>
-    <loc>https://danielwagner.at/categories/business/</loc>
-    <lastmod>2023-01-04T20:58:20+01:00</lastmod>
-  </url><url>
-    <loc>https://danielwagner.at/categories/</loc>
-    <lastmod>2023-01-04T20:58:20+01:00</lastmod>
+    <loc>https://danielwagner.at/tags/teens/</loc>
+    <lastmod>2023-03-12T22:52:54+01:00</lastmod>
   </url><url>
     <loc>https://danielwagner.at/posts/2022-12-30-2022-in-review/</loc>
     <lastmod>2023-01-04T20:58:20+01:00</lastmod>
@@ -61,10 +72,16 @@
     <lastmod>2023-01-04T20:58:20+01:00</lastmod>
   </url><url>
     <loc>https://danielwagner.at/page/imprint/</loc>
-    <lastmod>2023-03-12T22:52:54+01:00</lastmod>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
+  </url><url>
+    <loc>https://danielwagner.at/tags/legal/</loc>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
   </url><url>
     <loc>https://danielwagner.at/page/about/</loc>
-    <lastmod>2023-03-12T23:05:04+01:00</lastmod>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
+  </url><url>
+    <loc>https://danielwagner.at/categories/personal/</loc>
+    <lastmod>2023-03-12T23:56:03+01:00</lastmod>
   </url><url>
     <loc>https://danielwagner.at/posts/2022-11-26-archlinux-azure/</loc>
     <lastmod>2023-01-04T20:55:39+01:00</lastmod>
