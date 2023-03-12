@@ -6,6 +6,11 @@ categories:
 - business
 - personal
 tags:
+cover:
+    image: "me.webp"
+    alt: "Daniel Wagner"
+    caption: "A portrait of Daniel Wagner"
+    relative: true
 ---
 
 Über fünfzehn Jahre Erfahrung in der IT Branche als Entwickler und Architekt.
