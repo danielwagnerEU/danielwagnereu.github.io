@@ -11,7 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Nov 2022 14:10:00 +0100</lastBuildDate><atom:link href="https://danielwagner.at/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 20:34:53 +0100</lastBuildDate><atom:link href="https://danielwagner.at/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ArchLinux on Azure</title>
+      <link>https://danielwagner.at/projects/archlinux-azure/</link>
+      <pubDate>Tue, 03 Jan 2023 20:34:53 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/projects/archlinux-azure/</guid>
+      <description>Currently I&amp;rsquo;m taking part in the preview of the Azure Compute Gallery - community galleries. As I&amp;rsquo;ve been a fan of the ArchLinux distribution for some years already, I took this opportuinty to start maintaning an ArchLinux image share to Azure community.
+If you&amp;rsquo;re interested just check for it under it&amp;rsquo;s name arch-linux by publisher danielwagn3r - which is me.
+Find more about the image in my recent post ArchLinux on Azure</description>
+    </item>
+    
     <item>
       <title>Arch Linux on Azure</title>
       <link>https://danielwagner.at/posts/2022-11-26-archlinux-azure/</link>
