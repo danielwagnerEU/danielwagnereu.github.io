@@ -11,6 +11,7 @@ cover:
     alt: "Daniel Wagner"
     caption: "A portrait of Daniel Wagner"
     relative: true
+    hidden: true
 ---
 
 Über fünfzehn Jahre Erfahrung in der IT Branche als Entwickler und Architekt.
