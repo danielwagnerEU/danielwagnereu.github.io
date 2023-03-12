@@ -7,6 +7,13 @@ tags:
 - coderdojo
 - kids
 - teens
+cover:
+    image: "digital.austria_transparent.webp"
+    alt: "digital.austria"
+    caption: "Logo of digital.austria"
+    relative: true
+    hidden: true
+weight: 10
 ---
 
 CoderDojo is a club for kids and teens who want to learn programming and have fun.

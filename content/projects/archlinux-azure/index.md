@@ -13,6 +13,7 @@ cover:
     alt: "ArchLinux Logo"
     caption: "ArchLinux Logo"
     relative: true
+weight: 20
 ---
 
 Currently I'm taking part in the preview of the [_Azure Compute Gallery - community galleries_](https://learn.microsoft.com/en-us/azure/virtual-machines/share-gallery-community). As I've been a fan of the ArchLinux distribution for some years already, I took this opportuinty to start maintaning an ArchLinux image share to Azure community.
