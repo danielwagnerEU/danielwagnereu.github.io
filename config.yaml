@@ -18,16 +18,17 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Daniel Wagner
   description: "Daniel Wagner e.U."
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, "Daniel Wagner e.U.", "Consulting", "Training", "IT", "DevOps", "OAuth2", "OpenId", "Tulln", "Vienna", "Austria"]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/apple-touch-icon.png", "/img/profile-image.webp"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: true
+  ShareButtons: []
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -39,9 +40,14 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
+  mainSections:
+  - posts
+  - projects
+  - pages
+  
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
@@ -64,18 +70,16 @@ params:
     imageUrl: "img/profile-image.webp"
     imageWidth: 200
     imageHeight: 200
-    imageTitle: my image
+    imageTitle: "Daniel Wagner"
     buttons:
-      - name: About
+      - name: about
         url: page/about
-      - name: Posts
+      - name: offering
+        url: page/offering
+      - name: posts
         url: posts
-      - name: Projects
+      - name: projects
         url: projects
-      # - name: Tags
-      #   url: tags
-      - name: Search
-        url: search
 
   # home-info mode
   homeInfoParams:
@@ -116,7 +120,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/danielwagnerEU/danielwagnereu.github.io/content"
+    URL: "https://github.com/danielwagnerEU/danielwagnereu.github.io/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -137,6 +141,10 @@ menu:
       name: about
       url: /page/about/
       weight: 10
+    - identifier: offering
+      name: offering
+      url: /page/offering/
+      weight: 10
     - identifier: posts
       name: posts
       url: /posts/
@@ -145,14 +153,14 @@ menu:
       name: projects
       url: /projects/
       weight: 20
-    # - identifier: categories
-    #   name: categories
-    #   url: /categories/
-    #   weight: 30
-    # - identifier: tags
-    #   name: tags
-    #   url: /tags/
-    #   weight: 40
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 30
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 40
     # - identifier: example
     #   name: example.org
     #   url: https://example.org

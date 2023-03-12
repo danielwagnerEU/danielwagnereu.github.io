@@ -2,6 +2,10 @@
 title: "About"
 date: 2022-12-29T15:29:13+01:00
 draft: false
+categories:
+- business
+- personal
+tags:
 ---
 
 Über fünfzehn Jahre Erfahrung in der IT Branche als Entwickler und Architekt.
