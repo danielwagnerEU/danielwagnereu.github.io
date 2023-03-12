@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Daniel Wagner
     subtitle: "Helping people improve"
-    imageUrl: "img/profile-image.png"
+    imageUrl: "img/profile-image.webp"
     imageWidth: 200
     imageHeight: 200
     imageTitle: my image
