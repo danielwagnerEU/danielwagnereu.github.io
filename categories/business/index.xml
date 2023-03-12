@@ -13,6 +13,17 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Jan 2023 22:14:00 +0100</lastBuildDate><atom:link href="https://danielwagner.at/categories/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://danielwagner.at/page/about/</link>
+      <pubDate>Thu, 29 Dec 2022 15:29:13 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/page/about/</guid>
+      <description>Über fünfzehn Jahre Erfahrung in der IT Branche als Entwickler und Architekt.
+Meine Schwerpunkte sind Gestaltung Software Entwicklungs und IT Prozessen, Anwendung agiler Methoden, Analyse von IT Landschaften, Planung von Software und Integrations Architekturen, zum Beispile für Individual Software oder ERP Lösungen
+Ich habe zwei Abschlüsse an der Technischen Universität Wien und widme mich als Mitgründer und Obmann des CoderDojo Wien sowie Youth Hackathon Ambassador auch der Förderung des IT-Nachwuchs.</description>
+    </item>
+    
+    <item>
       <title>Offering</title>
       <link>https://danielwagner.at/page/offering/</link>
       <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
@@ -23,18 +34,6 @@ Enterprise architecture management Software and solution architecture IT consult
 OAuth 2.0 and OpenID Connect fundamentals
 OAuth 2.0 &amp;amp; OpenID Connect (almost) self-made with IdentityServer
 Software project and portfolio management with GitLab, Atlassian JIRA &amp;amp; Confluence or other tools</description>
-    </item>
-    
-    <item>
-      <title>Jahresrückblick 2022</title>
-      <link>https://danielwagner.at/posts/2022-12-30-2022-in-review/</link>
-      <pubDate>Fri, 30 Dec 2022 08:34:09 +0100</pubDate>
-      
-      <guid>https://danielwagner.at/posts/2022-12-30-2022-in-review/</guid>
-      <description>Ein aufregendes Jahr neigt sich dem Ende zu. Ein paar Highlights nochmal revue passiert.
-Besonders waren heuer für mich zwei Vorträge, einerseits bei Global Azure Austria 2022 mit ein Talk zu einer Anwendung des Azure Service Bus zur Applikations Integration, diesen gibt es auch hier zum Nachsehen
-als einer Einladung zu einem Vortrag zum interoperable Authentifzierung im Web mit IdentityServer bei der BASTA!.
-Super war auch, dass wir mit CoderDojo endlich wieder die Möglichkeit hatten offline aktiv zu sein.</description>
     </item>
     
     <item>
@@ -52,14 +51,15 @@ Purpose of the business Services in automatic data processing and information te
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://danielwagner.at/page/about/</link>
-      <pubDate>Thu, 29 Dec 2022 15:29:13 +0100</pubDate>
+      <title>Jahresrückblick 2022</title>
+      <link>https://danielwagner.at/posts/2022-12-30-2022-in-review/</link>
+      <pubDate>Fri, 30 Dec 2022 08:34:09 +0100</pubDate>
       
-      <guid>https://danielwagner.at/page/about/</guid>
-      <description>Über fünfzehn Jahre Erfahrung in der IT Branche als Entwickler und Architekt.
-Meine Schwerpunkte sind Gestaltung Software Entwicklungs und IT Prozessen, Anwendung agiler Methoden, Analyse von IT Landschaften, Planung von Software und Integrations Architekturen, zum Beispile für Individual Software oder ERP Lösungen
-Ich habe zwei Abschlüsse an der Technischen Universität Wien und widme mich als Mitgründer und Obmann des CoderDojo Wien sowie Youth Hackathon Ambassador auch der Förderung des IT-Nachwuchs.</description>
+      <guid>https://danielwagner.at/posts/2022-12-30-2022-in-review/</guid>
+      <description>Ein aufregendes Jahr neigt sich dem Ende zu. Ein paar Highlights nochmal revue passiert.
+Besonders waren heuer für mich zwei Vorträge, einerseits bei Global Azure Austria 2022 mit ein Talk zu einer Anwendung des Azure Service Bus zur Applikations Integration, diesen gibt es auch hier zum Nachsehen
+als einer Einladung zu einem Vortrag zum interoperable Authentifzierung im Web mit IdentityServer bei der BASTA!.
+Super war auch, dass wir mit CoderDojo endlich wieder die Möglichkeit hatten offline aktiv zu sein.</description>
     </item>
     
   </channel>
