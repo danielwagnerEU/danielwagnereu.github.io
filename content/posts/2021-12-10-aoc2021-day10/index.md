@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  Advent of Code 2021 Day 10
+description: Solving the Syntax Scoring fish puzzles of Advent of Code 2021
 draft: false
 author: Daniel Wagner
 date:   2021-12-10 17:36:00 +0100
-category:
+categories:
 - software
 tags:
 - aoc

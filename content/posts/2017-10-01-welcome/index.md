@@ -3,7 +3,7 @@ title:  "Welcome!"
 date:   2017-10-01 21:18:10 +0200
 draft: false
 author: Daniel Wagner
-category:
+categories:
 - update
 ---
 

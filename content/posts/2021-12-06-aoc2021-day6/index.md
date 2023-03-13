@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Advent of Code 2021 Day 6
+description: Solving the Lanternfish puzzles of Advent of Code 2021
 draft: false
 author: Daniel Wagner
 date:   2021-12-06 17:36:00 +0100

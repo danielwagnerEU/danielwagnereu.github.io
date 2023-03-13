@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  Advent of Code 2021 Day 1
+description: Solving the Sonar Sweep puzzles of Advent of Code 2021
 draft: false
 author: Daniel Wagner
 date:   2021-12-01 22:00:00 +0100
-category:
+categories:
 - software
 tags:
 - aoc

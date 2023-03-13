@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "CodeWeek ParkTour 2017"
+description: Report from the 2017 CodeWeek Austria Parktour in Vienna
 draft: false
 author: Daniel Wagner
 date:   2017-10-09 22:13:00 +0200
-category:
-- coderdojo
+categories:
+- volunteer
 tags:
 - coderdojo
 - codeweek

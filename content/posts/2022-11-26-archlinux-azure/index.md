@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  Arch Linux on Azure
+description: "Review of Azure Community Gallaeries and the way to bring ArchLinux to Azure"
 draft: false
 author: Daniel Wagner
 date:   2022-11-26 14:10:00 +0100
-category:
-- linux
+categories:
+- software
 tags:
 - archlinux
 - azure

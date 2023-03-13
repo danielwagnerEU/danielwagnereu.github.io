@@ -1,13 +1,14 @@
 ---
-title: "Jahresrückblick 2022"
+title: "The year in review 2022"
+description: "Looking back on the highlights of the past year, including exciting talks, CoderDojo activities and the start of my own business"
 date: 2022-12-30T08:34:09+01:00
 draft: false
 author: Daniel Wagner
 categories:
-- Business
+- update
 tags:
-- CoderDojo
-- Workshop
+- coderdojo
+- workshop
 ---
 
 Ein aufregendes Jahr neigt sich dem Ende zu. Ein paar Highlights nochmal revue passiert.
