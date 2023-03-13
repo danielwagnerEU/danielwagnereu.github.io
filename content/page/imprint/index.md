@@ -12,13 +12,13 @@ weight: 30
 ## Media proprietor/publisher of this website
 
 Daniel Wagner e.U. \
-Inhaber: DI Mag. Daniel Wagner
+Owner: DI Mag. Daniel Wagner
 
 Bahnweg 3 Haus 1 \
 3425 Langenlebarn \
 Austria
 
-Telefon [+43 677 61626112](tel:+4367761626112) \
+Phone [+43 677 61626112](tel:+4367761626112) \
 E-Mail [daniel@danielwagner.at](mailto:daniel@danielwagner.at)
 
 Legal form: Sole proprietorship \
