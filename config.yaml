@@ -1,7 +1,7 @@
 baseURL: "https://danielwagner.at/"
 languageCode: "en-us"
 title: "Daniel Wagner"
-copyright: "Daniel Wagner e.U."
+# copyright: "Daniel Wagner e.U."
 paginate: 5
 theme: PaperMod
 
