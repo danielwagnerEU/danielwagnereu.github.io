@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>personal on Daniel Wagner</title>
+    <link>https://danielwagner.at/de-at/categories/personal/</link>
+    <description>Recent content in personal on Daniel Wagner</description>
+    <image>
+      <title>Daniel Wagner</title>
+      <url>https://danielwagner.at/apple-touch-icon.png</url>
+      <link>https://danielwagner.at/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Daniel Wagner e.U.</copyright>
+    <lastBuildDate>Thu, 29 Dec 2022 15:29:13 +0100</lastBuildDate><atom:link href="https://danielwagner.at/de-at/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Über mich</title>
+      <link>https://danielwagner.at/de-at/page/about/</link>
+      <pubDate>Thu, 29 Dec 2022 15:29:13 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/de-at/page/about/</guid>
+      <description>Über fünfzehn Jahre Erfahrung in der IT Branche als Entwickler und Architekt.
+Meine Schwerpunkte sind Gestaltung Software Entwicklungs und IT Prozessen, Anwendung agiler Methoden, Analyse von IT Landschaften, Planung von Software und Integrations Architekturen, zum Beispile für Individual Software oder ERP Lösungen
+Ich habe zwei Abschlüsse an der Technischen Universität Wien und widme mich als Mitgründer und Obmann des CoderDojo Wien sowie Youth Hackathon Ambassador auch der Förderung des IT-Nachwuchs.</description>
+    </item>
+    
+  </channel>
+</rss>

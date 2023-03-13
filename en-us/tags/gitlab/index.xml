@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>gitlab on Daniel Wagner</title>
+    <link>https://danielwagner.at/en-us/tags/gitlab/</link>
+    <description>Recent content in gitlab on Daniel Wagner</description>
+    <image>
+      <title>Daniel Wagner</title>
+      <url>https://danielwagner.at/apple-touch-icon.png</url>
+      <link>https://danielwagner.at/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Daniel Wagner e.U.</copyright>
+    <lastBuildDate>Mon, 02 Jan 2023 22:14:00 +0100</lastBuildDate><atom:link href="https://danielwagner.at/en-us/tags/gitlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offering</title>
+      <link>https://danielwagner.at/en-us/page/offering/</link>
+      <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/en-us/page/offering/</guid>
+      <description>Topics I can advise you on your questions regarding
+Enterprise architecture management Software and solution architecture IT consulting Coaching and trainings for IT professionals and software engineer IT processes and governance Project management project support, project steering comittee Advice on tenders Partner search and choice Workshops Selected topics of recent workshops:
+OAuth 2.0 and OpenID Connect fundamentals
+OAuth 2.0 &amp;amp; OpenID Connect (almost) self-made with IdentityServer
+Software project and portfolio management with GitLab, Atlassian JIRA &amp;amp; Confluence or other tools</description>
+    </item>
+    
+  </channel>
+</rss>
