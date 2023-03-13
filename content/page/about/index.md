@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About me"
 date: 2022-12-29T15:29:13+01:00
 draft: false
 categories:
@@ -15,10 +15,10 @@ cover:
 weight: 10
 ---
 
-Über fünfzehn Jahre Erfahrung in der IT Branche als Entwickler und Architekt.
+Over fifteen years of experience in the IT industry with a background in different organizations and roles like as a software engineer, project manager and enterprise architect.
 
-Meine Schwerpunkte sind Gestaltung Software Entwicklungs und IT Prozessen, Anwendung agiler Methoden, Analyse von IT Landschaften, Planung von Software und Integrations Architekturen, zum Beispile für Individual Software oder ERP Lösungen 
+My focus is on designing software development and IT processes, applying agile methods, analyzing IT landscapes, planning software and integration architectures, for example for individual software or ERP solutions. 
 
-Ich habe zwei Abschlüsse an der Technischen Universität Wien und widme mich als Mitgründer und Obmann des [CoderDojo Wien](https://wien.coderdojo.net) sowie [Youth Hackathon](https://youthhackathon.com/) Ambassador auch der Förderung des IT-Nachwuchs.
+I have two degrees from the Vienna University of Technology and as co-founder and chairman of the [CoderDojo Wien](https://wien.coderdojo.net) as well as [Youth Hackathon](https://youthhackathon.com/) Ambassador I am also dedicated to the promotion of young IT talents.
 
 ![Picture of Daniel Wagner](me.webp#center "Picture of Daniel Wagner")
