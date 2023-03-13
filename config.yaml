@@ -11,6 +11,8 @@ enableRobotsTXT: true
 # buildFuture: false
 # buildExpired: false
 
+googleAnalytics: G-YCDFRMP3XS
+
 minify:
   disableXML: true
   minifyOutput: true
@@ -106,7 +108,7 @@ params:
 
   analytics:
     # google:
-    #   SiteVerificationTag: "XYZabc"
+    #   SiteVerificationTag: "G-YCDFRMP3XS"
     # bing:
     #   SiteVerificationTag: "XYZabc"
     # yandex:
