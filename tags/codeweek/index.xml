@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>codeweek on Daniel Wagner</title>
+    <link>https://danielwagner.at/tags/codeweek/</link>
+    <description>Recent content in codeweek on Daniel Wagner</description>
+    <image>
+      <title>Daniel Wagner</title>
+      <url>https://danielwagner.at/apple-touch-icon.png</url>
+      <link>https://danielwagner.at/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Daniel Wagner e.U.</copyright>
+    <lastBuildDate>Mon, 09 Oct 2017 22:13:00 +0200</lastBuildDate><atom:link href="https://danielwagner.at/tags/codeweek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CodeWeek ParkTour 2017</title>
+      <link>https://danielwagner.at/posts/2017-10-09-codeweek-parktour/</link>
+      <pubDate>Mon, 09 Oct 2017 22:13:00 +0200</pubDate>
+      
+      <guid>https://danielwagner.at/posts/2017-10-09-codeweek-parktour/</guid>
+      <description>As part of this years &lt;a href=&#34;https://codeweek.eu/&#34;&gt;Europe Code Week&lt;/a&gt; today I and my colleagues from &lt;a href=&#34;https://wien.coderdojo.net&#34;&gt;CoderDojo Wien&lt;/a&gt; had our first day at the main event in Austria, the &lt;a href=&#34;https://www.codeweek.at/&#34;&gt;CodeWeek ParkTour&lt;/a&gt;.</description>
+    </item>
+    
+  </channel>
+</rss>
