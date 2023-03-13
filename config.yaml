@@ -1,6 +1,5 @@
 baseURL: "https://danielwagner.at/"
-defaultContentLanguage: "en-us"
-defaultContentLanguageInSubdir: true
+languageCode: "en-us"
 title: "Daniel Wagner"
 copyright: "Daniel Wagner e.U."
 paginate: 5
@@ -11,12 +10,6 @@ enableRobotsTXT: true
 # buildDrafts: false
 # buildFuture: false
 # buildExpired: false
-
-languages:
-  en-us:
-    weight: 1
-  de-at:
-    weight: 2
 
 minify:
   disableXML: true
@@ -68,7 +61,6 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: Daniel Wagner
@@ -146,37 +138,37 @@ params:
 menu:
   main:
     - identifier: about
-      name: about
+      name: about me
       url: /page/about/
       weight: 10
     - identifier: offering
       name: offering
       url: /page/offering/
-      weight: 10
+      weight: 20
     - identifier: posts
       name: posts
       url: /posts/
-      weight: 10
+      weight: 30
     - identifier: projects
       name: projects
       url: /projects/
-      weight: 20
+      weight: 40
     # - identifier: categories
     #   name: categories
     #   url: /categories/
-    #   weight: 30
-    # - identifier: tags
-    #   name: tags
-    #   url: /tags/
-    #   weight: 40
+    #   weight: 50
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 60
+    - identifier: search
+      name: search
+      url: /search
+      weight: 70
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
     #   weight: 50
-    - identifier: search
-      name: search
-      url: /search
-      weight: 60
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
