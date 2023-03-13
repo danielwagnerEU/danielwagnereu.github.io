@@ -15,10 +15,12 @@ cover:
 weight: 10
 ---
 
-Über fünfzehn Jahre Erfahrung in der IT Branche als Entwickler und Architekt.
+Durch meine über 15-jährige Erfahrung in der IT-Branche und meine Arbeit in verschiedenen Positionen bei unterschiedlichen Unternehmen, wie beispielsweise als Software-Entwickler, Projektmanager und Enterprise Architect, konnte ich ein breitgefächertes Know-how aufbauen.
 
-Meine Schwerpunkte sind Gestaltung Software Entwicklungs und IT Prozessen, Anwendung agiler Methoden, Analyse von IT Landschaften, Planung von Software und Integrations Architekturen, zum Beispile für Individual Software oder ERP Lösungen 
+Ich konzentriere mich darauf, Softwareentwicklungs- und IT-Prozesse zu gestalten, agile Methoden anzuwenden, IT-Landschaften zu analysieren und Software- und Integrationsarchitekturen zu planen - sei es für individuelle Softwarelösungen oder auch ERP-Systeme.
 
-Ich habe zwei Abschlüsse an der Technischen Universität Wien und widme mich als Mitgründer und Obmann des [CoderDojo Wien](https://wien.coderdojo.net) sowie [Youth Hackathon](https://youthhackathon.com/) Ambassador auch der Förderung des IT-Nachwuchs.
+Ich habe zwei Abschlüsse an der Technischen Universität Wien und widme mich als Mitgründer und Obmann des Vereins [digital.austria]({{< relref path="/projects/coderdojo" lang="en-us" >}} "CoderDojo") sowie [Youth Hackathon](https://youthhackathon.com/) Ambassador auch der Förderung des IT-Nachwuchs.
+
+Ich widme mich mit Leidenschaft und Hingabe der Erbringung außergewöhnlicher Dienstleistungen für meine Kunden. Mein Ziel ist es, durch effektive Beratung und Trainings sicherzustellen, dass meine Kunden ihre Ziele erreichen können. Kontaktieren Sie mich noch heute, um mehr darüber zu erfahren, wie ich Ihnen bei Ihren Bedürfnissen behilflich sein kann.
 
 ![Portait von Daniel Wagner](me.webp#center "Portrait von Daniel Wagner")
