@@ -19,7 +19,7 @@
       <pubDate>Fri, 10 Dec 2021 17:36:00 +0100</pubDate>
       
       <guid>https://danielwagner.at/posts/2021-12-10-aoc2021-day10/</guid>
-      <description>Syntax Scoring solved using C#, advanced data structures and pattern matching.</description>
+      <description>Solving the Syntax Scoring fish puzzles of Advent of Code 2021</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@
       <pubDate>Mon, 06 Dec 2021 17:36:00 +0100</pubDate>
       
       <guid>https://danielwagner.at/posts/2021-12-06-aoc2021-day6/</guid>
-      <description>Lanternfish solved using C# and Linq.</description>
+      <description>Solving the Lanternfish puzzles of Advent of Code 2021</description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@
       <pubDate>Wed, 01 Dec 2021 22:00:00 +0100</pubDate>
       
       <guid>https://danielwagner.at/posts/2021-12-01-aoc2021-day1/</guid>
-      <description>Sonar Sweep solved using C# and Linq.</description>
+      <description>Solving the Sonar Sweep puzzles of Advent of Code 2021</description>
     </item>
     
   </channel>

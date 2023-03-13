@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>update on Daniel Wagner</title>
+    <link>https://danielwagner.at/categories/update/</link>
+    <description>Recent content in update on Daniel Wagner</description>
+    <image>
+      <title>Daniel Wagner</title>
+      <url>https://danielwagner.at/apple-touch-icon.png</url>
+      <link>https://danielwagner.at/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Daniel Wagner e.U.</copyright>
+    <lastBuildDate>Fri, 30 Dec 2022 08:34:09 +0100</lastBuildDate><atom:link href="https://danielwagner.at/categories/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The year in review 2022</title>
+      <link>https://danielwagner.at/posts/2022-12-30-2022-in-review/</link>
+      <pubDate>Fri, 30 Dec 2022 08:34:09 +0100</pubDate>
+      
+      <guid>https://danielwagner.at/posts/2022-12-30-2022-in-review/</guid>
+      <description>Looking back on the highlights of the past year, including exciting talks, CoderDojo activities and the start of my own business</description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://danielwagner.at/posts/2017-10-01-welcome/</link>
+      <pubDate>Sun, 01 Oct 2017 21:18:10 +0200</pubDate>
+      
+      <guid>https://danielwagner.at/posts/2017-10-01-welcome/</guid>
+      <description>using System; namespace Welcome { class App { static void Main() { Console.WriteLine(&amp;#34;Welcome!&amp;#34;); // Keep the console window open in debug mode. Console.WriteLine(&amp;#34;Press any key to exit.&amp;#34;); Console.ReadKey(); } } } </description>
+    </item>
+    
+  </channel>
+</rss>

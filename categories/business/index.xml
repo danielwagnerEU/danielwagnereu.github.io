@@ -51,17 +51,5 @@ Chamber membership: Austrian Federal Economic Chamber (WKÖ) Authority according
 Purpose of the business Services in automatic data processing and information technology Consulting in enterprise architecture, solution architecture and information technology Coaching and trainings for IT professionals</description>
     </item>
     
-    <item>
-      <title>Jahresrückblick 2022</title>
-      <link>https://danielwagner.at/posts/2022-12-30-2022-in-review/</link>
-      <pubDate>Fri, 30 Dec 2022 08:34:09 +0100</pubDate>
-      
-      <guid>https://danielwagner.at/posts/2022-12-30-2022-in-review/</guid>
-      <description>Ein aufregendes Jahr neigt sich dem Ende zu. Ein paar Highlights nochmal revue passiert.
-Besonders waren heuer für mich zwei Vorträge, einerseits bei Global Azure Austria 2022 mit ein Talk zu einer Anwendung des Azure Service Bus zur Applikations Integration, diesen gibt es auch hier zum Nachsehen
-als einer Einladung zu einem Vortrag zum interoperable Authentifzierung im Web mit IdentityServer bei der BASTA!.
-Super war auch, dass wir mit CoderDojo endlich wieder die Möglichkeit hatten offline aktiv zu sein.</description>
-    </item>
-    
   </channel>
 </rss>

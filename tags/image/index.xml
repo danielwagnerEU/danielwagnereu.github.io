@@ -19,8 +19,7 @@
       <pubDate>Sat, 26 Nov 2022 14:10:00 +0100</pubDate>
       
       <guid>https://danielwagner.at/posts/2022-11-26-archlinux-azure/</guid>
-      <description>After years of using my favorite Linux distribution on my on-premise systems, like desktops, servers or even Raspberry Pis I&amp;rsquo;ve be always keen to use Arch on cloud as well. Unfortunately there aren&amp;rsquo;t any prebuilt images for Arch Linux available on the most public hyperscalers.
-I&amp;rsquo;m now happy to announce the availabilty of an community Arch Linux image on Azure, as I got the possibility to be party of the preview of the community galleries preview 1.</description>
+      <description>Review of Azure Community Gallaeries and the way to bring ArchLinux to Azure</description>
     </item>
     
   </channel>
