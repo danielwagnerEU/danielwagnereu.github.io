@@ -35,6 +35,13 @@ Services in automatic data processing and information technology \
 Consulting in enterprise architecture, solution architecture and information technology \
 Coaching and trainings for IT professionals
 
+## Privacy
+We collect usage data using google analytics for the purposes of visualizing the traffic on this website.
+
+All data is anonymized and we do not sell or share any data with third parties.
+
+If you choose to deny, no info will be collected whatsoever.
+
 ## Disclaimer
 The information on this website is developed with greatest possible care. However, mistakes cannot be completely excluded. We do not assume legal responsibility or liability for potential remaining inaccurate information and their consequences. Links provided on this website also lead to external editorial offers. These links are being provided as a convenience and for informational purposes only; they do not constitute an endorsement or an approval by us. We bear no responsibility for the accuracy, legality or content of the external site or for that of subsequent links. Contact the external site for answers to questions regarding its content.
 
