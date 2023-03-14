@@ -7,6 +7,8 @@ categories:
 tags:
 - legal
 weight: 30
+aliases:
+- /privacy
 ---
 
 ## Media proprietor/publisher of this website
