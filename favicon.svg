@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="1024" height="1024"><svg width="1024" height="1024" viewBox="0 0 1024 1024" version="1.1" id="SvgjsSvg1020" inkscape:version="1.2.2 (732a01da63, 2022-12-09)" sodipodi:docname="danielwagnerEU-logo-square.svg" inkscape:export-filename="danielwagnerEU-logo-square.webp" inkscape:export-xdpi="96" inkscape:export-ydpi="96" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview id="SvgjsSodipodi:namedview1019" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="true" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" showgrid="false" inkscape:zoom="0.86328125" inkscape:cx="511.42081" inkscape:cy="512" inkscape:window-width="1920" inkscape:window-height="1129" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2341"></sodipodi:namedview>
+  <defs id="SvgjsDefs1018">
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient29379" id="SvgjsLinearGradient1017" gradientUnits="userSpaceOnUse" x1="-107.99999" y1="0" x2="108" y2="0" gradientTransform="matrix(0.33714227,0,0,0.3819444,48.588678,27.499996)"></linearGradient>
+    <linearGradient inkscape:collect="always" id="SvgjsLinearGradient1016">
+      <stop style="stop-color:#20b2aa;stop-opacity:0;" offset="0" id="SvgjsStop1015"></stop>
+      <stop style="stop-color:#008080;stop-opacity:1;" offset="0.00759495" id="SvgjsStop1014"></stop>
+      <stop style="stop-color:#008080;stop-opacity:1;" offset="0.98734182" id="SvgjsStop1013"></stop>
+      <stop style="stop-color:#20b2aa;stop-opacity:0;" offset="1" id="SvgjsStop1012"></stop>
+    </linearGradient>
+  </defs>
+  <metadata id="SvgjsMetadata1011">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/4.0/"></cc:license>
+        <dc:creator>
+          <cc:agent>
+            <dc:title>Miriam Wagner</dc:title>
+          </cc:agent>
+        </dc:creator>
+      </cc:work>
+      <cc:license rdf:about="http://creativecommons.org/licenses/by-nd/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"></cc:permits>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"></cc:permits>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"></cc:requires>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"></cc:requires>
+      </cc:license>
+    </rdf:rdf>
+  </metadata>
+  <g inkscape:groupmode="layer" id="SvgjsG1010" inkscape:label="Boxen" transform="matrix(11.294112,0,0,11.294112,31.99999,201.41195)">
+    <path style="fill:url(#linearGradient30841);fill-opacity:1;fill-rule:nonzero;stroke-width:0.355391;stroke-dasharray:none" vector-effect="non-scaling-stroke" d="M 12.177315,0 H 85.000044 V 54.999994 H 12.177315 Z" stroke-linecap="round" id="SvgjsPath1009" inkscape:label="box-teal"></path>
+    <path style="fill:#32cd32;fill-opacity:1;fill-rule:nonzero;stroke-width:0.358845" vector-effect="non-scaling-stroke" d="M 2.8e-7,9.9224841 H 24.274244 V 23.672484 H 2.8e-7 Z" stroke-linecap="round" id="SvgjsPath1008" inkscape:label="box-green"></path>
+    <path style="fill:#ff7f50;fill-opacity:1;fill-rule:nonzero;stroke-width:0.358845" vector-effect="non-scaling-stroke" d="M 0.12137141,31.327514 H 24.395615 v 13.75 H 0.12137141 Z" stroke-linecap="round" id="SvgjsPath1007" inkscape:label="box-orange"></path>
+  </g>
+  <g inkscape:groupmode="layer" id="SvgjsG1006" inkscape:label="Text" transform="matrix(11.294112,0,0,11.294112,31.99999,201.41195)">
+    <g id="SvgjsG1005" inkscape:label="text-green">
+      <text style="font-weight:700;font-size:9.87197px;font-family:'Cutive Mono';letter-spacing:0.0172246px;white-space:pre;fill:#32cd32;fill-opacity:1;stroke-width:0.358845" x="30.311338 35.543297" y="17.768553 17.768553" id="SvgjsText1004" transform="scale(0.93952103,1.0643721)" inkscape:label="text-slash" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">//</text>
+      <text style="font-weight:700;font-size:9.87197px;font-family:'Cutive Mono';letter-spacing:0.0172246px;white-space:pre;fill:#32cd32;fill-opacity:1;stroke-width:0.358845" x="46.750023 51.981979 57.21035 62.442307 67.674263 72.906219" y="17.768553 17.768553 17.768553 17.768553 17.768553 17.768553" id="SvgjsText1003" transform="scale(0.93952103,1.0643721)" inkscape:label="text-daniel" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">daniel</text>
+    </g>
+    <g id="SvgjsG1002" inkscape:label="text-orange">
+      <text style="font-weight:700;font-size:9.87197px;font-family:'Cutive Mono';letter-spacing:0.0172246px;white-space:pre;fill:#ff7f50;fill-opacity:1;stroke-width:0.358845" x="47.988037 53.219994 58.448364 63.680321 68.912277 74.144234" y="37.000137 37.000137 37.000137 37.000137 37.000137 37.000137" id="SvgjsText1001" inkscape:label="text-wagner" transform="scale(0.93952103,1.0643721)" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">wagner</text>
+      <text style="font-weight:700;font-size:9.87197px;font-family:'Cutive Mono';letter-spacing:0.0172246px;white-space:pre;fill:#ff7f50;fill-opacity:1;stroke-width:0.358845" x="30.440523 35.672482" y="38.204933 38.204933" id="SvgjsText1000" transform="scale(0.93952103,1.0643721)" inkscape:label="text-bracket" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">&gt;&gt;</text>
+    </g>
+  </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+</style></svg>
