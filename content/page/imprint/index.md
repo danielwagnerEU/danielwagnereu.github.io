@@ -25,9 +25,9 @@ E-Mail [daniel@danielwagner.at](mailto:daniel@danielwagner.at)
 
 Legal form: Sole proprietorship \
 Place of business: Langenlebarn, Austria \
-Commercial register number: _582479m_ \
-Commercial Register Court: _Regional Court St. Pölten_ \
-VAT Reg. No _ATU78846108_
+Commercial register number: 582479m \
+Commercial Register Court: Regional Court St. Pölten \
+VAT Reg. No ATU78846108
 
 Chamber membership: _Austrian Federal Economic Chamber (WKÖ)_ \
 Authority according to ECG (E-Commerce Act): _Bezirkshauptmannschaft Tulln_
