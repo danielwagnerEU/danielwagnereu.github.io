@@ -18,7 +18,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Daniel Wagner
   description: "Blog and Website of Daniel Wagner e.U. on information technology, software engineering, cloud, linux, volunteering at CoderDojo and personal stuff"
   keywords: [Blog, "Daniel Wagner e.U.", "Consulting", "Training", "IT", "DevOps", "Tulln", "Vienna", "Austria"]
