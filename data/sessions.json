@@ -1,0 +1,42 @@
+[
+    {
+        "date": "2023-09-25",
+        "eventname": "BASTA! Mainz 2023",
+        "eventlink": "https://basta.net/mainz/",
+        "location": "Mainz, Germany",
+        "sessionname": "OpenID Connection (fast) selbstgemacht mit IdenityServer",
+        "sessionlink": "https://basta.net/security/openid-connect-identityserver/"
+    },
+    {
+        "date": "2023-06-19",
+        "eventname": "MAD Summit München 2023",
+        "eventlink": "https://mad-summit.de/muenchen/",
+        "location": "Munich, Germany",
+        "sessionname": "Standardbasierte Authentifzierung mit OAuth 2.0 und OpenID Connect",
+        "sessionlink": "https://mad-summit.de/fundamentals/authentifizierung-mit-oauth-2-und-openid-connect/"
+    },
+    {
+        "date": "2023-06-14",
+        "eventname": "Rise of Technology",
+        "eventlink": "https://lsz.at/events/rise-of-technology",
+        "location": "Waidhofen/Ybbs, Austria",
+        "sessionname": "Next Generation Developers: Full Digital Natives",
+        "sessionlink": ""
+    },
+    {
+        "date": "2022-11-30",
+        "eventname": "MAD Summit Berlin 2022",
+        "eventlink": "https://mad-summit.de/berlin/",
+        "location": "Berlin, Germany",
+        "sessionname": "OAuth 2 & OpenID",
+        "sessionlink": "https://mad-summit.de/fundamentals/oauth-2-openid/"
+    },
+    {
+        "date": "2023-10-13",
+        "eventname": "BASTA! Mainz 2023",
+        "eventlink": "https://basta.net/mainz/",
+        "location": "Mainz, Germany",
+        "sessionname": "OpenID Connection (fast) selbstgemacht mit IdenityServer",
+        "sessionlink": "https://basta.net/microservices-apis/openid-connect-fast-selbstgemacht-mit-identityserver/"
+    }
+]

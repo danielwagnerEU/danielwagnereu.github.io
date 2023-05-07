@@ -2,6 +2,8 @@
 title: "Offering"
 date: 2023-01-02T22:14:00+01:00
 draft: false
+categories:
+- business
 tags:
 - oauth2
 - openid
@@ -12,12 +14,14 @@ tags:
 - devops
 - github
 - gitlab
-categories:
-- business
 weight: 20
 ---
 
-{{< sessionize_events >}}
+## Talks and Workshops
+
+Here's a list of my recent and upcomming public talks and workshops
+
+{{< sessions >}}
 
 ## Topics
 I can advise you on your questions regarding

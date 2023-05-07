@@ -1,0 +1,10 @@
+<div class="container">
+    <ul>
+        {{ $sessions := $.Site.Data.sessions }} {{ range $sessions }}
+        <li><b><a href="{{ .eventlink }}" target="_blank">{{ .eventname }}</a></b>, {{ .date | dateFormat "January 2, 2006" }}
+            <br /><a href="{{ .sessionlink }}" target="_blank">{{ .sessionname }}</a>
+            <br />{{ .location }}
+        </li>
+    {{ end }}
+    </ul>
+</div>
