@@ -3,6 +3,7 @@
         "date": "2023-09-25",
         "eventname": "BASTA! Mainz 2023",
         "eventlink": "https://basta.net/mainz/",
+        "eventorganizer" : "Software & Support Media GmbH",
         "location": "Mainz, Germany",
         "sessionname": "OpenID Connection (fast) selbstgemacht mit IdenityServer",
         "sessionlink": "https://basta.net/security/openid-connect-identityserver/",
@@ -12,6 +13,7 @@
         "date": "2023-06-19",
         "eventname": "MAD Summit München 2023",
         "eventlink": "https://mad-summit.de/muenchen/",
+        "eventorganizer" : "Software & Support Media GmbH",
         "location": "Munich, Germany",
         "sessionname": "Standardbasierte Authentifzierung mit OAuth 2.0 und OpenID Connect",
         "sessionlink": "https://mad-summit.de/fundamentals/authentifizierung-mit-oauth-2-und-openid-connect/",
@@ -21,6 +23,7 @@
         "date": "2023-06-14",
         "eventname": "Rise of Technology",
         "eventlink": "https://lsz.at/events/rise-of-technology",
+        "eventorganizer": "LSZ GmbH",
         "location": "Waidhofen/Ybbs, Austria",
         "sessionname": "Next Generation Developers: Full Digital Natives"
     },
@@ -28,6 +31,7 @@
         "date": "2022-11-30",
         "eventname": "MAD Summit Berlin 2022",
         "eventlink": "https://mad-summit.de/berlin/",
+        "eventorganizer" : "Software & Support Media GmbH",
         "location": "Berlin, Germany",
         "sessionname": "OAuth 2 & OpenID",
         "sessionlink": "https://mad-summit.de/fundamentals/oauth-2-openid/",
@@ -37,8 +41,20 @@
         "date": "2022-10-13",
         "eventname": "BASTA! Mainz 2022",
         "eventlink": "https://basta.net/mainz/",
+        "eventorganizer" : "Software & Support Media GmbH",
         "location": "Mainz, Germany",
         "sessionname": "OpenID Connection (fast) selbstgemacht mit IdenityServer",
-        "sessionlink": "https://basta.net/microservices-apis/openid-connect-fast-selbstgemacht-mit-identityserver/"
+        "sessionlink": "https://basta.net/microservices-apis/openid-connect-fast-selbstgemacht-mit-identityserver/",
+        "image":"basta-mainz-2022.jpg"
+    },
+    {
+        "date": "2022-09-14",
+        "eventname": "Software Architecture Summit München 2022",
+        "eventlink": "https://software-architecture-summit.de/berlin/",
+        "eventorganizer" : "Software & Support Media GmbH",
+        "location": "Berlin, Germany",
+        "sessionname": "Authentifzierung mit OAuth 2.0 und OpenID Connect",
+        "sessionlink": "https://software-architecture-summit.de/softwarearchitektur/authentifizierung-mit-oauth-2/",
+        "image": "/img/sessions/sas-summit-berlin-2022.jpg"
     }
 ]

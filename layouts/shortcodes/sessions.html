@@ -2,13 +2,27 @@
     <ul>
         {{ $sessions := $.Site.Data.sessions }} {{ range $sessions }}
             <li itemprop="event" itemscope itemtype="https://schema.org/Event">
+                <div itemprop="superEvent" itemscope itemtype="https://schema.org/Event">
+                    <meta itemprop="eventAttendanceMode" content="https://schema.org/OfflineEventAttendanceMode" />
+                    <meta itemprop="eventStatus" content="https://schema.org/EventScheduled" />
+                    <meta itemprop="name" content="{{ .eventname }}" />
+                    <meta itemprop="startDate" content="{{ .date }}">
+                    <meta itemprop="organizer" content="{{ .eventorganizer }}">
+                    {{ with .location }}<meta itemprop="location" content="{{ . }}">{{ end }}
+                    {{ with .image }}<meta itemprop="image" content="{{ . }}" />{{ end }}
+                </div>
                 <meta itemprop="eventAttendanceMode" content="https://schema.org/OfflineEventAttendanceMode" />
                 <meta itemprop="eventStatus" content="https://schema.org/EventScheduled" />
                 {{ with .image }}<meta itemprop="image" content="{{ . }}" />{{ end }}
-                <b><a href="{{ .eventlink }}" target="_blank"><span itemprop="name">{{ .eventname }}</span></a></b>,
-                <meta itemprop="startDate" content="{{ .date }}">{{ .date | dateFormat "January 2, 2006" }}
-                {{ with .sessionlink }}<br /><a href="{{ . }}" target="_blank">{{ end }}
-                    {{ .sessionname }}
+                <b>
+                    {{ with .eventlink }}<a href="{{ . }}" target="_blank">{{ end }}
+                        <span itemprop="name">{{ .eventname }}</span>
+                    {{ with .eventlink }}</a>{{ end }}
+                </b>,
+                <meta itemprop="startDate" content="{{ .date }}">&nbsp;{{ .date | dateFormat "January 2, 2006" }}
+                <br />
+                {{ with .sessionlink }}<a href="{{ . }}" target="_blank">{{ end }}
+                    <span itemprop="name">{{ .sessionname }}</span>
                 {{ with .sessionlink }}</a>{{ end }}
                 {{ with .location }}<br /><span itemprop="location">{{ . }}</span>{{ end }}
             </li>
