@@ -5,7 +5,8 @@
         "eventlink": "https://basta.net/mainz/",
         "location": "Mainz, Germany",
         "sessionname": "OpenID Connection (fast) selbstgemacht mit IdenityServer",
-        "sessionlink": "https://basta.net/security/openid-connect-identityserver/"
+        "sessionlink": "https://basta.net/security/openid-connect-identityserver/",
+        "image": "/sessions/basta-mainz-2023.jpeg"
     },
     {
         "date": "2023-06-19",
@@ -13,15 +14,15 @@
         "eventlink": "https://mad-summit.de/muenchen/",
         "location": "Munich, Germany",
         "sessionname": "Standardbasierte Authentifzierung mit OAuth 2.0 und OpenID Connect",
-        "sessionlink": "https://mad-summit.de/fundamentals/authentifizierung-mit-oauth-2-und-openid-connect/"
+        "sessionlink": "https://mad-summit.de/fundamentals/authentifizierung-mit-oauth-2-und-openid-connect/",
+        "image": "/sessions/mad-summit-munic-2023.jpg"
     },
     {
         "date": "2023-06-14",
         "eventname": "Rise of Technology",
         "eventlink": "https://lsz.at/events/rise-of-technology",
         "location": "Waidhofen/Ybbs, Austria",
-        "sessionname": "Next Generation Developers: Full Digital Natives",
-        "sessionlink": ""
+        "sessionname": "Next Generation Developers: Full Digital Natives"
     },
     {
         "date": "2022-11-30",
@@ -29,11 +30,12 @@
         "eventlink": "https://mad-summit.de/berlin/",
         "location": "Berlin, Germany",
         "sessionname": "OAuth 2 & OpenID",
-        "sessionlink": "https://mad-summit.de/fundamentals/oauth-2-openid/"
+        "sessionlink": "https://mad-summit.de/fundamentals/oauth-2-openid/",
+        "image": "/sessions/mad-summit-berlin-2022.jpg"
     },
     {
-        "date": "2023-10-13",
-        "eventname": "BASTA! Mainz 2023",
+        "date": "2022-10-13",
+        "eventname": "BASTA! Mainz 2022",
         "eventlink": "https://basta.net/mainz/",
         "location": "Mainz, Germany",
         "sessionname": "OpenID Connection (fast) selbstgemacht mit IdenityServer",

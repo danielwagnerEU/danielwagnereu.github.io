@@ -1,10 +1,17 @@
 <div class="container">
     <ul>
         {{ $sessions := $.Site.Data.sessions }} {{ range $sessions }}
-        <li><b><a href="{{ .eventlink }}" target="_blank">{{ .eventname }}</a></b>, {{ .date | dateFormat "January 2, 2006" }}
-            <br /><a href="{{ .sessionlink }}" target="_blank">{{ .sessionname }}</a>
-            <br />{{ .location }}
-        </li>
+            <li itemprop="event" itemscope itemtype="https://schema.org/Event">
+                <meta itemprop="eventAttendanceMode" content="https://schema.org/OfflineEventAttendanceMode" />
+                <meta itemprop="eventStatus" content="https://schema.org/EventScheduled" />
+                {{ with .image }}<meta itemprop="image" content="{{ . }}" />{{ end }}
+                <b><a href="{{ .eventlink }}" target="_blank"><span itemprop="name">{{ .eventname }}</span></a></b>,
+                <meta itemprop="startDate" content="{{ .date }}">{{ .date | dateFormat "January 2, 2006" }}
+                {{ with .sessionlink }}<br /><a href="{{ . }}" target="_blank">{{ end }}
+                    {{ .sessionname }}
+                {{ with .sessionlink }}</a>{{ end }}
+                {{ with .location }}<br /><span itemprop="location">{{ . }}</span>{{ end }}
+            </li>
     {{ end }}
     </ul>
 </div>
