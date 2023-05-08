@@ -6,7 +6,7 @@
         "location": "Mainz, Germany",
         "sessionname": "OpenID Connection (fast) selbstgemacht mit IdenityServer",
         "sessionlink": "https://basta.net/security/openid-connect-identityserver/",
-        "image": "/sessions/basta-mainz-2023.jpeg"
+        "image": "/img/sessions/basta-mainz-2023.jpeg"
     },
     {
         "date": "2023-06-19",
@@ -15,7 +15,7 @@
         "location": "Munich, Germany",
         "sessionname": "Standardbasierte Authentifzierung mit OAuth 2.0 und OpenID Connect",
         "sessionlink": "https://mad-summit.de/fundamentals/authentifizierung-mit-oauth-2-und-openid-connect/",
-        "image": "/sessions/mad-summit-munic-2023.jpg"
+        "image": "/img/sessions/mad-summit-munic-2023.jpg"
     },
     {
         "date": "2023-06-14",
@@ -31,7 +31,7 @@
         "location": "Berlin, Germany",
         "sessionname": "OAuth 2 & OpenID",
         "sessionlink": "https://mad-summit.de/fundamentals/oauth-2-openid/",
-        "image": "/sessions/mad-summit-berlin-2022.jpg"
+        "image": "/img/sessions/mad-summit-berlin-2022.jpg"
     },
     {
         "date": "2022-10-13",
