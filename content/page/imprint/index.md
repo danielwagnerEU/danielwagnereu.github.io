@@ -27,7 +27,7 @@ Legal form: Sole proprietorship \
 Place of business: Langenlebarn, Austria \
 Commercial register number: 582479m \
 Commercial Register Court: Regional Court St. Pölten \
-VAT Reg. No ATU78846108
+VAT Reg. No: ATU78846108
 
 Chamber membership: _Austrian Federal Economic Chamber (WKÖ)_ \
 Authority according to ECG (E-Commerce Act): _Bezirkshauptmannschaft Tulln_
