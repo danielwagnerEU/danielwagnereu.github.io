@@ -20,7 +20,7 @@ Bahnweg 3 Haus 1 \
 3425 Langenlebarn \
 Austria
 
-Phone [+43 677 61626112](tel:+4367761626112) \
+Phone [+43 677 61 62 61 12](tel:+4367761626112) \
 E-Mail [daniel@danielwagner.at](mailto:daniel@danielwagner.at)
 
 Legal form: Sole proprietorship \
