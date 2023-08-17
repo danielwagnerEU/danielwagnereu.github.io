@@ -167,6 +167,10 @@ menu:
       name: search
       url: /search
       weight: 70
+    - identifier: press
+      name: media
+      url: /page/media
+      weight: 80
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
