@@ -1,7 +1,7 @@
 ---
 title: "Media and press"
 description: "In media and press"
-date: 2023-08-17T09:38:00+01:00
+date: 2023-08-17T07:38:00+01:00
 draft: false
 # cover:
 #     image: ""
