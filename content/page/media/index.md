@@ -1,6 +1,6 @@
 ---
 title: "Media and press"
-description: "In media and presse"
+description: "In media and press"
 date: 2023-08-17T09:38:00+01:00
 draft: false
 # cover:
@@ -8,13 +8,14 @@ draft: false
 #     alt: ""
 #     caption: ""
 #     relative: true
+#     hidden: true
 categories:
 - business
 - personal
 tags:
 - press
 - media
-weight: 40
+weight: 50
 ---
 
 ## In press and media
@@ -38,6 +39,4 @@ weight: 40
 
 ## Anfragen
 
-Ich stehe gerne für deine Anfrage zur Verfügung, [kontaktiere]({{< relref "/" >}}) mich einfach oder schreibe mir an:
-
-[daniel@danielwagner.at](mailto:daniel@danielwagner.at)
+I'm happy to answer your questions, just [contact]({{< relref "/" >}}) me or write to: [daniel@danielwagner.at](mailto:daniel@danielwagner.at)
