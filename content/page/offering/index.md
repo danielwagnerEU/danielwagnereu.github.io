@@ -24,6 +24,7 @@ Here's a list of my recent and upcomming public talks and workshops
 {{< sessions >}}
 
 ## Topics
+
 I can advise you on your questions regarding
 
 - Enterprise architecture management
