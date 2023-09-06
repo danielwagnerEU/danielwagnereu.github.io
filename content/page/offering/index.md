@@ -47,3 +47,7 @@ Selected topics of recent workshops:
 - Software project and portfolio management with GitLab, Atlassian JIRA & Confluence or other tools
 
 - Version Control with Git
+  - Azure DevOps
+  - Atlassian Bitbucket
+  - GitHub
+  - GitLab
