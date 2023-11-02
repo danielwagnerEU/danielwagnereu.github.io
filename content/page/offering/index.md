@@ -58,4 +58,4 @@ Selected topics of recent workshops:
 
 [![Partner im Expertennetzwerk www.IT-Visions.de](/img/www.IT-Visions.de_Expertennetzwerk.jpg?width=312px&height=128px#center "Partner im Expertennetzwerk www.IT-Visions.de")](https://www.it-visions.de/about/experte.aspx/Dwagner)
 
-[![GitLab Open Partner logo](/img/gitlab-open-partner-badge.webp?width=312px&height=128px#center "GitLab Open Partner logo")](https://partners.gitlab.com/English/directory/search?l=Austria&q=Daniel+Wagner)
+[![GitLab Open Partner logo](/img/gitlab-open-partner-badge.webp?width=312px&height=128px#center "GitLab Open Partner logo")](https://partners.gitlab.com/English/directory/partner/2150750/daniel-wagner-e-u)
