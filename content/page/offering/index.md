@@ -46,9 +46,13 @@ Selected topics of recent workshops:
 
 - AuthNZ für APIs und Web-Apps mit IdentityServer
 
-- Software project and portfolio management with GitLab, Atlassian JIRA & Confluence or other tools
+- Software project and portfolio management with GitLab, JIRA & Confluence or other tools
 
-- Version Control with Git (GitLab, GitHub, Bitbucket, Azure DevOps)
+- Version Control with Git
+  - GitLab
+  - GitHub
+  - Azure DevOps
+  - Bitbucket
 
 ## Partnerships
 

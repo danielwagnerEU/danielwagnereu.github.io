@@ -32,12 +32,14 @@ VAT Reg. No: ATU78846108
 Chamber membership: _Austrian Federal Economic Chamber (WKÖ)_ \
 Authority according to ECG (E-Commerce Act): _Bezirkshauptmannschaft Tulln_
 
-## Purpose of the business 
+## Purpose of the business
+
 Services in automatic data processing and information technology \
 Consulting in enterprise architecture, solution architecture and information technology \
 Coaching and trainings for IT professionals
 
 ## Privacy
+
 We collect usage data using google analytics for the purposes of visualizing the traffic on this website.
 
 All data is anonymized and we do not sell or share any data with third parties.
@@ -45,6 +47,7 @@ All data is anonymized and we do not sell or share any data with third parties.
 If you choose to deny, no info will be collected whatsoever.
 
 ## Disclaimer
+
 The information on this website is developed with greatest possible care. However, mistakes cannot be completely excluded. We do not assume legal responsibility or liability for potential remaining inaccurate information and their consequences. Links provided on this website also lead to external editorial offers. These links are being provided as a convenience and for informational purposes only; they do not constitute an endorsement or an approval by us. We bear no responsibility for the accuracy, legality or content of the external site or for that of subsequent links. Contact the external site for answers to questions regarding its content.
 
 [![ECG ](ecg.webp#center)](https://www.wkoecg.at/Ecg.aspx?FirmaID=961a03fa-ef08-4827-854d-85fed0463c35&_ga=2.161793212.1888238834.1672323723-832547914.1654253026&_gl=1*1qlqecd*_ga*ODMyNTQ3OTE0LjE2NTQyNTMwMjY.*_ga_4YHGVSN5S4*MTY3MjM1NjY0Ni4yNy4xLjE2NzIzNTY4NDcuNTcuMC4w)

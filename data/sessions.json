@@ -10,6 +10,16 @@
         "image": "/img/sessions/basta-mainz-2023.jpeg"
     },
     {
+        "date": "2023-09-14",
+        "eventname": "ECR Tag 2023",
+        "eventlink": "https://www.ecrtag.de/",
+        "eventorganizer" : "GS1 Germany GmbH",
+        "location": "Frankfurt, Germany",
+        "sessionname": "Schnitten aus der Cloud – Wie das Wiener Traditionsunternehmen Manner den EDI-Nachrichtenaustausch mit Kunden, Logistikern und Lieferanten erfolgreich in die Cloud migriert hat",
+        "sessionlink": "https://www.ecrtag.de/programm/optimale-edi-sap-integration/",
+        "image": "/img/sessions/ecrtag-2023.jpg"
+    },
+    {
         "date": "2023-06-19",
         "eventname": "MAD Summit München 2023",
         "eventlink": "https://mad-summit.de/muenchen/",
