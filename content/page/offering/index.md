@@ -24,6 +24,7 @@ Here's a list of my recent and upcomming public talks and workshops
 {{< sessions >}}
 
 ## Topics
+
 I can advise you on your questions regarding
 
 - Enterprise architecture management
@@ -35,7 +36,7 @@ I can advise you on your questions regarding
 - Advice on tenders
 - Partner search and choice
 
-## Workshops
+## Training and Workshops
 
 Selected topics of recent workshops:
 
@@ -43,6 +44,14 @@ Selected topics of recent workshops:
 
 - OAuth 2.0 & OpenID Connect (almost) self-made with IdentityServer
 
+- AuthNZ für APIs und Web-Apps mit IdentityServer
+
 - Software project and portfolio management with GitLab, Atlassian JIRA & Confluence or other tools
 
-- Version Control with Git
+- Version Control with Git (GitLab, GitHub, Bitbucket, Azure DevOps)
+
+## Partnerships
+
+[![Partner im Expertennetzwerk www.IT-Visions.de](/img/www.IT-Visions.de_Expertennetzwerk.jpg?width=312px&height=128px#center "Partner im Expertennetzwerk www.IT-Visions.de")](https://www.it-visions.de/about/experte.aspx/Dwagner)
+
+[![GitLab Open Partner logo](/img/gitlab-open-partner-badge.webp?width=312px&height=128px#center "GitLab Open Partner logo")](https://partners.gitlab.com/English/directory/search?l=Austria&q=Daniel+Wagner)
