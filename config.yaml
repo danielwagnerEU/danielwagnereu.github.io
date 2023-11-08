@@ -11,7 +11,7 @@ enableRobotsTXT: true
 # buildFuture: false
 # buildExpired: false
 
-googleAnalytics: G-YCDFRMP3XS
+# googleAnalytics: G-YCDFRMP3XS
 
 minify:
   disableXML: true
