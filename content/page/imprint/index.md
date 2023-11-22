@@ -31,6 +31,7 @@ VAT Reg. No: ATU78846108
 
 Chamber membership: _Austrian Federal Economic Chamber (WKÖ)_ \
 Authority according to ECG (E-Commerce Act): _Bezirkshauptmannschaft Tulln_
+Applicable commercial or professional regulations: [Gewerbeordnung 1994](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517)
 
 ## Purpose of the business
 
@@ -40,11 +41,7 @@ Coaching and trainings for IT professionals
 
 ## Privacy
 
-We collect usage data using google analytics for the purposes of visualizing the traffic on this website.
-
-All data is anonymized and we do not sell or share any data with third parties.
-
-If you choose to deny, no info will be collected whatsoever.
+We do not track you.
 
 ## Disclaimer
 
