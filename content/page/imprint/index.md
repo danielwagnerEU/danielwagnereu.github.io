@@ -30,7 +30,7 @@ Commercial Register Court: Regional Court St. Pölten \
 VAT Reg. No: ATU78846108 \
 D-U-N-S Number: 30-085-0574
 
-Chamber membership: _Austrian Federal Economic Chamber (WKÖ)_ \
+Chamber membership: [_Austrian Federal Economic Chamber (WKÖ)_](https://wko.at) \
 Authority according to ECG (E-Commerce Act): _Bezirkshauptmannschaft Tulln_ \
 Applicable commercial or professional regulations: [Gewerbeordnung 1994](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517)
 
