@@ -101,6 +101,8 @@ params:
       url: "https://www.instagram.com/dani3lwagner"
     - name: mastodon
       url: "https://fedi.at/@danielwagn3r"
+    - name: bluesky
+      url: "https://bsky.app/profile/danielwagn3r.bsky.social"
     - name: twitter
       url: "https://twitter.com/daniel_wagn3r"
     - name: rss
