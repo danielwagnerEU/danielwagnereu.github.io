@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>training on Daniel Wagner</title>
     <link>https://danielwagner.at/tags/training/</link>
@@ -11,16 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jan 2023 22:14:00 +0100</lastBuildDate><atom:link href="https://danielwagner.at/tags/training/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 22:14:00 +0100</lastBuildDate>
+    <atom:link href="https://danielwagner.at/tags/training/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Offering</title>
       <link>https://danielwagner.at/page/offering/</link>
       <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
-      
       <guid>https://danielwagner.at/page/offering/</guid>
       <description>Talks and Workshops Here&amp;rsquo;s a list of my recent and upcomming public talks and workshops
 BASTA! Mainz 2023 , &amp;nbsp;September 25, 2023 OpenID Connection (fast) selbstgemacht mit IdenityServer Mainz, Germany ECR Tag 2023 , &amp;nbsp;September 14, 2023 Schnitten aus der Cloud – Wie das Wiener Traditionsunternehmen Manner den EDI-Nachrichtenaustausch mit Kunden, Logistikern und Lieferanten erfolgreich in die Cloud migriert hat Frankfurt, Germany MAD Summit München 2023 , &amp;nbsp;June 19, 2023 Standardbasierte Authentifzierung mit OAuth 2.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Wagner</title>
     <link>https://danielwagner.at/</link>
@@ -11,53 +11,45 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2023 07:38:00 +0100</lastBuildDate><atom:link href="https://danielwagner.at/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Aug 2023 07:38:00 +0100</lastBuildDate>
+    <atom:link href="https://danielwagner.at/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CoderDojo</title>
       <link>https://danielwagner.at/projects/coderdojo/</link>
       <pubDate>Fri, 30 Dec 2022 08:58:46 +0100</pubDate>
-      
       <guid>https://danielwagner.at/projects/coderdojo/</guid>
       <description>CoderDojo is a club for kids and teens who want to learn programming and have fun.</description>
     </item>
-    
     <item>
       <title>About me</title>
       <link>https://danielwagner.at/page/about/</link>
       <pubDate>Thu, 29 Dec 2022 15:29:13 +0100</pubDate>
-      
       <guid>https://danielwagner.at/page/about/</guid>
       <description>With over 15 years of experience in the IT industry, I have gained a diverse background through various roles held in different organizations, such as software engineer, project manager, and enterprise architect.
 My focus is on designing software development and IT processes, applying agile methods, analyzing IT landscapes, planning software and integration architectures, for example for individual software or ERP solutions.
 I have two degrees from the Vienna University of Technology in computer science and computer science management.</description>
     </item>
-    
     <item>
       <title>ArchLinux on Azure</title>
       <link>https://danielwagner.at/projects/archlinux-azure/</link>
       <pubDate>Tue, 03 Jan 2023 20:34:53 +0100</pubDate>
-      
       <guid>https://danielwagner.at/projects/archlinux-azure/</guid>
       <description>Currently I&amp;rsquo;m taking part in the preview of the Azure Compute Gallery - community galleries. As I&amp;rsquo;ve been a fan of the ArchLinux distribution for some years already, I took this opportuinty to start maintaning an ArchLinux image share to Azure community.
 If you&amp;rsquo;re interested just check for it under it&amp;rsquo;s name arch-linux by publisher danielwagn3r - which is me.
 Find more about the image in my recent post ArchLinux on Azure</description>
     </item>
-    
     <item>
       <title>Offering</title>
       <link>https://danielwagner.at/page/offering/</link>
       <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
-      
       <guid>https://danielwagner.at/page/offering/</guid>
       <description>Talks and Workshops Here&amp;rsquo;s a list of my recent and upcomming public talks and workshops
 BASTA! Mainz 2023 , &amp;nbsp;September 25, 2023 OpenID Connection (fast) selbstgemacht mit IdenityServer Mainz, Germany ECR Tag 2023 , &amp;nbsp;September 14, 2023 Schnitten aus der Cloud – Wie das Wiener Traditionsunternehmen Manner den EDI-Nachrichtenaustausch mit Kunden, Logistikern und Lieferanten erfolgreich in die Cloud migriert hat Frankfurt, Germany MAD Summit München 2023 , &amp;nbsp;June 19, 2023 Standardbasierte Authentifzierung mit OAuth 2.</description>
     </item>
-    
     <item>
       <title>Imprint &amp; Disclosure</title>
       <link>https://danielwagner.at/page/imprint/</link>
       <pubDate>Thu, 29 Dec 2022 15:29:30 +0100</pubDate>
-      
       <guid>https://danielwagner.at/page/imprint/</guid>
       <description>Media proprietor/publisher of this website Daniel Wagner e.U. Owner: DI Mag. Daniel Wagner
 Bahnweg 3 Haus 1 3425 Langenlebarn Austria
@@ -65,79 +57,61 @@ Phone +43 677 61 62 61 12 E-Mail daniel@danielwagner.at
 Legal form: Sole proprietorship Place of business: Langenlebarn, Austria Commercial register number: 582479m Commercial Register Court: Regional Court St. Pölten VAT Reg. No: ATU78846108 D-U-N-S Number: 30-085-0574
 Chamber membership: Austrian Federal Economic Chamber (WKÖ) Authority according to ECG (E-Commerce Act): Bezirkshauptmannschaft Tulln Applicable commercial or professional regulations: Gewerbeordnung 1994</description>
     </item>
-    
     <item>
       <title>Media and press</title>
       <link>https://danielwagner.at/page/media/</link>
       <pubDate>Thu, 17 Aug 2023 07:38:00 +0100</pubDate>
-      
       <guid>https://danielwagner.at/page/media/</guid>
       <description>In media and press</description>
     </item>
-    
     <item>
       <title>The year in review 2022</title>
       <link>https://danielwagner.at/posts/2022-12-30-2022-in-review/</link>
       <pubDate>Fri, 30 Dec 2022 08:34:09 +0100</pubDate>
-      
       <guid>https://danielwagner.at/posts/2022-12-30-2022-in-review/</guid>
       <description>Looking back on the highlights of the past year, including exciting talks, CoderDojo activities and the start of my own business</description>
     </item>
-    
     <item>
       <title>Arch Linux on Azure</title>
       <link>https://danielwagner.at/posts/2022-11-26-archlinux-azure/</link>
       <pubDate>Sat, 26 Nov 2022 14:10:00 +0100</pubDate>
-      
       <guid>https://danielwagner.at/posts/2022-11-26-archlinux-azure/</guid>
       <description>Review of Azure Community Gallaeries and the way to bring ArchLinux to Azure</description>
     </item>
-    
     <item>
       <title>Advent of Code 2021 Day 10</title>
       <link>https://danielwagner.at/posts/2021-12-10-aoc2021-day10/</link>
       <pubDate>Fri, 10 Dec 2021 17:36:00 +0100</pubDate>
-      
       <guid>https://danielwagner.at/posts/2021-12-10-aoc2021-day10/</guid>
       <description>Solving the Syntax Scoring fish puzzles of Advent of Code 2021</description>
     </item>
-    
     <item>
       <title>Advent of Code 2021 Day 6</title>
       <link>https://danielwagner.at/posts/2021-12-06-aoc2021-day6/</link>
       <pubDate>Mon, 06 Dec 2021 17:36:00 +0100</pubDate>
-      
       <guid>https://danielwagner.at/posts/2021-12-06-aoc2021-day6/</guid>
       <description>Solving the Lanternfish puzzles of Advent of Code 2021</description>
     </item>
-    
     <item>
       <title>Advent of Code 2021 Day 1</title>
       <link>https://danielwagner.at/posts/2021-12-01-aoc2021-day1/</link>
       <pubDate>Wed, 01 Dec 2021 22:00:00 +0100</pubDate>
-      
       <guid>https://danielwagner.at/posts/2021-12-01-aoc2021-day1/</guid>
       <description>Solving the Sonar Sweep puzzles of Advent of Code 2021</description>
     </item>
-    
     <item>
       <title>CodeWeek ParkTour 2017</title>
       <link>https://danielwagner.at/posts/2017-10-09-codeweek-parktour/</link>
       <pubDate>Mon, 09 Oct 2017 22:13:00 +0200</pubDate>
-      
       <guid>https://danielwagner.at/posts/2017-10-09-codeweek-parktour/</guid>
       <description>Report from the 2017 CodeWeek Austria Parktour in Vienna</description>
     </item>
-    
     <item>
       <title>Welcome!</title>
       <link>https://danielwagner.at/posts/2017-10-01-welcome/</link>
       <pubDate>Sun, 01 Oct 2017 21:18:10 +0200</pubDate>
-      
       <guid>https://danielwagner.at/posts/2017-10-01-welcome/</guid>
       <description>using System; namespace Welcome { class App { static void Main() { Console.WriteLine(&amp;#34;Welcome!&amp;#34;); // Keep the console window open in debug mode. Console.WriteLine(&amp;#34;Press any key to exit.&amp;#34;); Console.ReadKey(); } } } </description>
     </item>
-    
-    
   </channel>
 </rss>

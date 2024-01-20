@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>coderdojo on Daniel Wagner</title>
     <link>https://danielwagner.at/tags/coderdojo/</link>
@@ -11,33 +11,28 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2022 08:58:46 +0100</lastBuildDate><atom:link href="https://danielwagner.at/tags/coderdojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 08:58:46 +0100</lastBuildDate>
+    <atom:link href="https://danielwagner.at/tags/coderdojo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CoderDojo</title>
       <link>https://danielwagner.at/projects/coderdojo/</link>
       <pubDate>Fri, 30 Dec 2022 08:58:46 +0100</pubDate>
-      
       <guid>https://danielwagner.at/projects/coderdojo/</guid>
       <description>CoderDojo is a club for kids and teens who want to learn programming and have fun.</description>
     </item>
-    
     <item>
       <title>The year in review 2022</title>
       <link>https://danielwagner.at/posts/2022-12-30-2022-in-review/</link>
       <pubDate>Fri, 30 Dec 2022 08:34:09 +0100</pubDate>
-      
       <guid>https://danielwagner.at/posts/2022-12-30-2022-in-review/</guid>
       <description>Looking back on the highlights of the past year, including exciting talks, CoderDojo activities and the start of my own business</description>
     </item>
-    
     <item>
       <title>CodeWeek ParkTour 2017</title>
       <link>https://danielwagner.at/posts/2017-10-09-codeweek-parktour/</link>
       <pubDate>Mon, 09 Oct 2017 22:13:00 +0200</pubDate>
-      
       <guid>https://danielwagner.at/posts/2017-10-09-codeweek-parktour/</guid>
       <description>Report from the 2017 CodeWeek Austria Parktour in Vienna</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>personal on Daniel Wagner</title>
     <link>https://danielwagner.at/categories/personal/</link>
@@ -11,26 +11,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2023 07:38:00 +0100</lastBuildDate><atom:link href="https://danielwagner.at/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Aug 2023 07:38:00 +0100</lastBuildDate>
+    <atom:link href="https://danielwagner.at/categories/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>https://danielwagner.at/page/about/</link>
       <pubDate>Thu, 29 Dec 2022 15:29:13 +0100</pubDate>
-      
       <guid>https://danielwagner.at/page/about/</guid>
       <description>With over 15 years of experience in the IT industry, I have gained a diverse background through various roles held in different organizations, such as software engineer, project manager, and enterprise architect.
 My focus is on designing software development and IT processes, applying agile methods, analyzing IT landscapes, planning software and integration architectures, for example for individual software or ERP solutions.
 I have two degrees from the Vienna University of Technology in computer science and computer science management.</description>
     </item>
-    
     <item>
       <title>Media and press</title>
       <link>https://danielwagner.at/page/media/</link>
       <pubDate>Thu, 17 Aug 2023 07:38:00 +0100</pubDate>
-      
       <guid>https://danielwagner.at/page/media/</guid>
       <description>In media and press</description>
     </item>
-    
   </channel>
 </rss>

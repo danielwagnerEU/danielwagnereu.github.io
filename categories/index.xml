@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Daniel Wagner</title>
     <link>https://danielwagner.at/categories/</link>
@@ -11,51 +11,42 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2023 07:38:00 +0100</lastBuildDate><atom:link href="https://danielwagner.at/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Aug 2023 07:38:00 +0100</lastBuildDate>
+    <atom:link href="https://danielwagner.at/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>business</title>
       <link>https://danielwagner.at/categories/business/</link>
       <pubDate>Thu, 17 Aug 2023 07:38:00 +0100</pubDate>
-      
       <guid>https://danielwagner.at/categories/business/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>personal</title>
       <link>https://danielwagner.at/categories/personal/</link>
       <pubDate>Thu, 17 Aug 2023 07:38:00 +0100</pubDate>
-      
       <guid>https://danielwagner.at/categories/personal/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>update</title>
       <link>https://danielwagner.at/categories/update/</link>
       <pubDate>Fri, 30 Dec 2022 08:34:09 +0100</pubDate>
-      
       <guid>https://danielwagner.at/categories/update/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>software</title>
       <link>https://danielwagner.at/categories/software/</link>
       <pubDate>Sat, 26 Nov 2022 14:10:00 +0100</pubDate>
-      
       <guid>https://danielwagner.at/categories/software/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>volunteer</title>
       <link>https://danielwagner.at/categories/volunteer/</link>
       <pubDate>Mon, 09 Oct 2017 22:13:00 +0200</pubDate>
-      
       <guid>https://danielwagner.at/categories/volunteer/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
