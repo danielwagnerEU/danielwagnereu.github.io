@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-15",
+        "eventname": "BASTA! Frankfurt 2023",
+        "eventlink": "https://basta.net/frankfurt/",
+        "eventorganizer" : "Software & Support Media GmbH",
+        "location": "Frankfurt/Main, Germany",
+        "sessionname": "AuthNZ für APIs und Web-Apps mit IdentityServer",
+        "sessionlink": "https://basta.net/security/authnz-apis-webapps-identityserver/",
+        "image": "/img/sessions/basta-frankfurt-2024.jpeg"
+    },
+    {
         "date": "2023-09-25",
         "eventname": "BASTA! Mainz 2023",
         "eventlink": "https://basta.net/mainz/",
