@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>devops on Daniel Wagner</title>
+    <title>Devops on Daniel Wagner</title>
     <link>https://danielwagner.at/tags/devops/</link>
-    <description>Recent content in devops on Daniel Wagner</description>
+    <description>Recent content in Devops on Daniel Wagner</description>
     <image>
       <title>Daniel Wagner</title>
       <url>https://danielwagner.at/img/logo.webp</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jan 2023 22:14:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 02 Nov 2023 17:04:56 +0100</lastBuildDate>
     <atom:link href="https://danielwagner.at/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Offering</title>

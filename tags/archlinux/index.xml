@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>archlinux on Daniel Wagner</title>
+    <title>Archlinux on Daniel Wagner</title>
     <link>https://danielwagner.at/tags/archlinux/</link>
-    <description>Recent content in archlinux on Daniel Wagner</description>
+    <description>Recent content in Archlinux on Daniel Wagner</description>
     <image>
       <title>Daniel Wagner</title>
       <url>https://danielwagner.at/img/logo.webp</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jan 2023 20:34:53 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 13 Mar 2023 11:41:32 +0100</lastBuildDate>
     <atom:link href="https://danielwagner.at/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ArchLinux on Azure</title>
