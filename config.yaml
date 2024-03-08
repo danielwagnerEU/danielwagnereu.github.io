@@ -105,6 +105,8 @@ params:
       url: "https://fedi.at/@danielwagn3r"
     - name: bluesky
       url: "https://bsky.app/profile/danielwagn3r.bsky.social"
+    - name: signal
+      url: "https://signal.me/#eu/UCZWhbznyhhjuJ6S0by1TXbBsyNGrGQDexOyNVGoZblGsGAO6W1JiK23CRulSh8r"
     - name: twitter
       url: "https://twitter.com/daniel_wagn3r"
     - name: rss
