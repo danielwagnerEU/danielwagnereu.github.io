@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-10",
+        "eventname": "MAD Summit München 2024",
+        "eventlink": "https://mad-summit.de/muenchen/",
+        "eventorganizer" : "Software & Support Media GmbH",
+        "location": "Munich, Germany",
+        "sessionname": "OAuth 2.0 und OpenID Connect: Schlüssel zur sicheren Authentifizierung",
+        "sessionlink": "https://mad-summit.de/cloudnative-devops/oauth-2-und-openid-connect-schluessel-zur-sicheren-authentifizierung/",
+        "image": "/img/sessions/mad-summit-munic-2024.jpg"
+    },
+    {
         "date": "2024-02-15",
         "eventname": "BASTA! Frankfurt 2024",
         "eventlink": "https://basta.net/frankfurt/",
