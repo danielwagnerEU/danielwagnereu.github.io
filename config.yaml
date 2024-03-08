@@ -80,6 +80,8 @@ params:
         url: posts
       - name: projects
         url: projects
+      - name: meet
+        url: "https://outlook.office.com/bookwithme/user/487b18400a3b417c818dd6f915c29a8d@danielwagner.at?anonymous&ep=plink"
 
   # home-info mode
   homeInfoParams:
