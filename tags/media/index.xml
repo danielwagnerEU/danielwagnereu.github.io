@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Media on Daniel Wagner</title>
+    <title>media on Daniel Wagner</title>
     <link>https://danielwagner.at/tags/media/</link>
-    <description>Recent content in Media on Daniel Wagner</description>
+    <description>Recent content in media on Daniel Wagner</description>
     <image>
       <title>Daniel Wagner</title>
       <url>https://danielwagner.at/img/logo.webp</url>
       <link>https://danielwagner.at/img/logo.webp</link>
     </image>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.122.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Aug 2023 14:20:01 +0200</lastBuildDate>
     <atom:link href="https://danielwagner.at/tags/media/index.xml" rel="self" type="application/rss+xml" />
