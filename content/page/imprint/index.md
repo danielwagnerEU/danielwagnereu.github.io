@@ -28,6 +28,7 @@ Place of business: Langenlebarn, Austria \
 Commercial register number: 582479m \
 Commercial Register Court: Regional Court St. Pölten \
 VAT Reg. No: ATU78846108 \
+GISA code: 34911747 and 37624729 \
 D-U-N-S Number: 30-085-0574
 
 Chamber membership: [_Austrian Federal Economic Chamber (WKÖ)_](https://wko.at) \
@@ -36,9 +37,9 @@ Applicable commercial or professional regulations: [Gewerbeordnung 1994](https:/
 
 ## Purpose of the business
 
-Services in automatic data processing and information technology \
-Consulting in enterprise architecture, solution architecture and information technology \
-Coaching and trainings for IT professionals
+Business consulting including business organization, limited to business organization and technology/technologies as well as Services in automatic data processing and information technology.
+
+My focus is on providing organizational and technological consulting, particularly in the fields of business organization and technology. I specialize in designing and transforming enterprise architectures, solution architectures, IT systems, business processes, and operational strategies. As an enterprise architect and technology expert, I support your efforts to align IT landscape with business goals, implement IT solutions, optimize production workflows, and provide strategic technology consulting. Additionally, I offer coaching and training for IT professionals, along with project support to help organizations advance their capabilities and leverage technology effectively.
 
 ## Privacy
 
