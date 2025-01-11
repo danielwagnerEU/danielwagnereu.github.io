@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg2341"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2338">
+    <linearGradient
+       xlink:href="#linearGradient29379"
+       id="linearGradient30841"
+       gradientUnits="userSpaceOnUse"
+       x1="-107.99999"
+       y1="0"
+       x2="108"
+       y2="0"
+       gradientTransform="matrix(0.33714227,0,0,0.3819444,48.588678,27.499996)" />
+    <linearGradient
+       id="linearGradient29379">
+      <stop
+         style="stop-color:#20b2aa;stop-opacity:0;"
+         offset="0"
+         id="stop29375" />
+      <stop
+         style="stop-color:#008080;stop-opacity:1;"
+         offset="0.00759495"
+         id="stop30837" />
+      <stop
+         style="stop-color:#008080;stop-opacity:1;"
+         offset="0.98734182"
+         id="stop30839" />
+      <stop
+         style="stop-color:#20b2aa;stop-opacity:0;"
+         offset="1"
+         id="stop29377" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata2708">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nd/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Miriam Wagner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer2"
+     transform="matrix(11.294112,0,0,11.294112,31.99999,201.41195)">
+    <path
+       style="fill:url(#linearGradient30841);fill-opacity:1;fill-rule:nonzero;stroke-width:0.355391;stroke-dasharray:none"
+       vector-effect="non-scaling-stroke"
+       d="M 12.177315,0 H 85.000044 V 54.999994 H 12.177315 Z"
+       stroke-linecap="round"
+       id="path35" />
+    <path
+       style="fill:#32cd32;fill-opacity:1;fill-rule:nonzero;stroke-width:0.358845"
+       vector-effect="non-scaling-stroke"
+       d="M 2.8e-7,9.9224841 H 24.274244 V 23.672484 H 2.8e-7 Z"
+       stroke-linecap="round"
+       id="path41" />
+    <path
+       style="fill:#ff7f50;fill-opacity:1;fill-rule:nonzero;stroke-width:0.358845"
+       vector-effect="non-scaling-stroke"
+       d="M 0.12137141,31.327514 H 24.395615 v 13.75 H 0.12137141 Z"
+       stroke-linecap="round"
+       id="path38" />
+  </g>
+  <g
+     id="layer1"
+     transform="matrix(11.294112,0,0,11.294112,31.99999,201.41195)">
+    <g
+       id="g32429">
+      <text
+         style="font-weight:700;font-size:9.87197px;font-family:'Cutive Mono';letter-spacing:0.0172246px;white-space:pre;fill:#32cd32;fill-opacity:1;stroke-width:0.358845"
+         x="30.311338 35.543297"
+         y="17.768553 17.768553"
+         id="text49"
+         transform="scale(0.93952103,1.0643721)">//</text>
+      <text
+         style="font-weight:700;font-size:9.87197px;font-family:'Cutive Mono';letter-spacing:0.0172246px;white-space:pre;fill:#32cd32;fill-opacity:1;stroke-width:0.358845"
+         x="46.750023 51.981979 57.21035 62.442307 67.674263 72.906219"
+         y="17.768553 17.768553 17.768553 17.768553 17.768553 17.768553"
+         id="text52"
+         transform="scale(0.93952103,1.0643721)">daniel</text>
+    </g>
+    <g
+       id="g32423">
+      <text
+         style="font-weight:700;font-size:9.87197px;font-family:'Cutive Mono';letter-spacing:0.0172246px;white-space:pre;fill:#ff7f50;fill-opacity:1;stroke-width:0.358845"
+         x="47.988037 53.219994 58.448364 63.680321 68.912277 74.144234"
+         y="37.000137 37.000137 37.000137 37.000137 37.000137 37.000137"
+         id="text44"
+         transform="scale(0.93952103,1.0643721)">wagner</text>
+      <text
+         style="font-weight:700;font-size:9.87197px;font-family:'Cutive Mono';letter-spacing:0.0172246px;white-space:pre;fill:#ff7f50;fill-opacity:1;stroke-width:0.358845"
+         x="30.440523 35.672482"
+         y="38.204933 38.204933"
+         id="text55"
+         transform="scale(0.93952103,1.0643721)">&gt;&gt;</text>
+    </g>
+  </g>
+</svg>
