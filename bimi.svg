@@ -17,11 +17,11 @@
       <path d="m2.8e-7 9.9225h24.274v13.75h-24.274z" fill="#32cd32" stroke-width=".35884" vector-effect="non-scaling-stroke" />
       <path d="m0.12137 31.328h24.274v13.75h-24.274z" fill="#ff7f50" stroke-width=".35884" vector-effect="non-scaling-stroke" />
     </g>
-    <g fill="#32cd32" font-family="'Cutive Mono'" font-size="9.872px" font-weight="700" stroke-width=".35884">
+    <g fill="#32cd32" font-family="'Cutive Mono'" font-size="9.872px" font-weight="bold" stroke-width=".35884">
       <text transform="scale(.93952 1.0644)" x="30.311338 35.543297" y="17.768553 17.768553">//</text>
       <text transform="scale(.93952 1.0644)" x="46.750023 51.981979 57.21035 62.442307 67.674263 72.906219" y="17.768553 17.768553 17.768553 17.768553 17.768553 17.768553">daniel</text>
     </g>
-    <g fill="#ff7f50" font-family="'Cutive Mono'" font-size="9.872px" font-weight="700" stroke-width=".35884">
+    <g fill="#ff7f50" font-family="'Cutive Mono'" font-size="9.872px" font-weight="bold" stroke-width=".35884">
       <text transform="scale(.93952 1.0644)" x="47.988037 53.219994 58.448364 63.680321 68.912277 74.144234" y="37.000137 37.000137 37.000137 37.000137 37.000137 37.000137">wagner</text>
       <text transform="scale(.93952 1.0644)" x="30.440523 35.672482" y="38.204933 38.204933">&gt;&gt;</text>
     </g>
